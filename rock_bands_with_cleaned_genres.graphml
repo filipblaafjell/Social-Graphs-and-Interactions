@@ -5,55 +5,55 @@
   <graph edgedefault="directed">
     <node id="10 Years (band)">
       <data key="d0">28468</data>
-      <data key="d1">post-grunge, progressive metal, nu metal, alternative metal</data>
+      <data key="d1">alternative metal, nu metal, post-grunge, progressive metal</data>
     </node>
     <node id="Disturbed (band)">
       <data key="d0">75607</data>
-      <data key="d1">heavy metal, nu-metal, alternative metal, hard rock</data>
+      <data key="d1">alternative metal, hard rock, heavy metal, nu-metal</data>
     </node>
     <node id="Breaking Benjamin">
       <data key="d0">109080</data>
-      <data key="d1">hard rock, post-grunge, alternative rock, alternative metal</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, post-grunge</data>
     </node>
     <node id="Mudvayne">
       <data key="d0">51568</data>
-      <data key="d1">alternative metal, nu-metal, progressive metal, hard rock</data>
+      <data key="d1">alternative metal, hard rock, nu-metal, progressive metal</data>
     </node>
     <node id="Korn">
       <data key="d0">185167</data>
-      <data key="d1">nu-metal, alternative metal</data>
+      <data key="d1">alternative metal, nu-metal</data>
     </node>
     <node id="Deftones">
       <data key="d0">133350</data>
-      <data key="d1">art rock, shoegaze, nu-metal, alternative metal</data>
+      <data key="d1">alternative metal, art rock, nu-metal, shoegaze</data>
     </node>
     <node id="Stone Temple Pilots">
       <data key="d0">66029</data>
-      <data key="d1">alternative metal, psychedelic rock, grunge, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, grunge, hard rock, psychedelic rock</data>
     </node>
     <node id="Thousand Foot Krutch">
       <data key="d0">45676</data>
-      <data key="d1">christian metal, christian rock, heavy metal, nu-metal, rap metal, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, christian metal, christian rock, hard rock, heavy metal, nu-metal, rap metal</data>
     </node>
     <node id="Linkin Park">
       <data key="d0">242868</data>
-      <data key="d1">rap rock, alternative metal, nu-metal, pop rock, electronic rock, alternative rock</data>
+      <data key="d1">alternative metal, alternative rock, electronic, nu-metal, pop rock, rap rock</data>
     </node>
     <node id="Shinedown">
       <data key="d0">81561</data>
-      <data key="d1">alternative metal, post-grunge, pop rock, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, pop rock, post-grunge</data>
     </node>
     <node id="Puddle of Mudd">
       <data key="d0">52868</data>
-      <data key="d1">post-grunge, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, hard rock, post-grunge</data>
     </node>
     <node id="10cc">
       <data key="d0">67435</data>
-      <data key="d1">art rock, progressive pop, soft rock, pop rock, art pop</data>
+      <data key="d1">art pop, art rock, pop rock, progressive pop, soft rock</data>
     </node>
     <node id="The Yardbirds">
       <data key="d0">55145</data>
-      <data key="d1">rhythm and blues, blues rock, psychedelic rock</data>
+      <data key="d1">blues rock, psychedelic rock, rhythm and blues</data>
     </node>
     <node id="Simon &amp; Garfunkel">
       <data key="d0">83247</data>
@@ -61,19 +61,19 @@
     </node>
     <node id="The Hollies">
       <data key="d0">39560</data>
-      <data key="d1">rock, pop</data>
+      <data key="d1">pop, rock</data>
     </node>
     <node id="Herman's Hermits">
       <data key="d0">39552</data>
-      <data key="d1">pop rock, beat, bubblegum</data>
+      <data key="d1">beat, bubblegum, pop rock</data>
     </node>
     <node id="Frank Zappa">
       <data key="d0">219180</data>
-      <data key="d1">blues, electronic, doo-wop, progressive rock, pop, classical, fusion, comedy, experimental, rock, jazz, musique concrète, avant-garde</data>
+      <data key="d1">avant-garde, blues, classical, comedy, doo-wop, electronic, experimental, jazz, jazz fusion, musique concrète, pop, progressive rock, rock</data>
     </node>
     <node id="Queen (band)">
       <data key="d0">283333</data>
-      <data key="d1">rock, pop</data>
+      <data key="d1">pop, rock</data>
     </node>
     <node id="Roxy Music">
       <data key="d0">61122</data>
@@ -81,7 +81,7 @@
     </node>
     <node id="George Harrison">
       <data key="d0">167223</data>
-      <data key="d1">indian classical, rock, pop</data>
+      <data key="d1">indian classical, pop, rock</data>
     </node>
     <node id="Asia (band)">
       <data key="d0">59660</data>
@@ -93,19 +93,19 @@
     </node>
     <node id="Duran Duran">
       <data key="d0">122439</data>
-      <data key="d1">synth-pop, dance rock, new wave, pop rock</data>
+      <data key="d1">dance rock, new wave, pop rock, synth-pop</data>
     </node>
     <node id="Peter Gabriel">
       <data key="d0">128308</data>
-      <data key="d1">art rock, worldbeat, progressive rock, progressive soul</data>
+      <data key="d1">art rock, progressive rock, progressive soul, worldbeat</data>
     </node>
     <node id="The Clash">
       <data key="d0">95909</data>
-      <data key="d1">post-punk, reggae, experimental rock, new wave, punk rock</data>
+      <data key="d1">experimental rock, new wave, post-punk, punk rock, reggae</data>
     </node>
     <node id="Jethro Tull (band)">
       <data key="d0">77465</data>
-      <data key="d1">folk rock, progressive rock, blues rock, hard rock</data>
+      <data key="d1">blues rock, folk rock, hard rock, progressive rock</data>
     </node>
     <node id="Ramones">
       <data key="d0">118125</data>
@@ -113,43 +113,43 @@
     </node>
     <node id="Paul McCartney">
       <data key="d0">265210</data>
-      <data key="d1">classical, electronic, rock, pop</data>
+      <data key="d1">classical, electronic, pop, rock</data>
     </node>
     <node id="Ringo Starr">
       <data key="d0">149241</data>
-      <data key="d1">rock, pop</data>
+      <data key="d1">pop, rock</data>
     </node>
     <node id="ABBA">
       <data key="d0">152243</data>
-      <data key="d1">europop, pop, pop rock, disco</data>
+      <data key="d1">disco, europop, pop, pop rock</data>
     </node>
     <node id="Steely Dan">
       <data key="d0">65270</data>
-      <data key="d1">soft rock, jazz fusion, yacht rock, jazz rock, pop</data>
+      <data key="d1">jazz fusion, pop, soft rock, yacht rock</data>
     </node>
     <node id="Toto (band)">
       <data key="d0">70162</data>
-      <data key="d1">progressive rock, jazz fusion, arena rock, pop rock, hard rock</data>
+      <data key="d1">arena rock, hard rock, jazz fusion, pop rock, progressive rock</data>
     </node>
     <node id="Electric Light Orchestra">
       <data key="d0">59667</data>
-      <data key="d1">art rock, progressive pop, orchestral pop, progressive rock</data>
+      <data key="d1">art rock, orchestral pop, progressive pop, progressive rock</data>
     </node>
     <node id="3 Doors Down">
       <data key="d0">46796</data>
-      <data key="d1">post-grunge, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, hard rock, post-grunge</data>
     </node>
     <node id="Rush (band)">
       <data key="d0">169187</data>
-      <data key="d1">heavy metal, progressive rock, hard rock</data>
+      <data key="d1">hard rock, heavy metal, progressive rock</data>
     </node>
     <node id="Lynyrd Skynyrd">
       <data key="d0">60358</data>
-      <data key="d1">country rock, southern rock, blues rock, hard rock</data>
+      <data key="d1">blues rock, country rock, hard rock, southern rock</data>
     </node>
     <node id="Nickelback">
       <data key="d0">84719</data>
-      <data key="d1">alternative metal, post-grunge, pop rock, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, pop rock, post-grunge</data>
     </node>
     <node id="Bob Seger">
       <data key="d0">50393</data>
@@ -157,35 +157,35 @@
     </node>
     <node id="ZZ Top">
       <data key="d0">64601</data>
-      <data key="d1">boogie rock, southern rock, blues rock, hard rock</data>
+      <data key="d1">blues rock, boogie rock, hard rock, southern rock</data>
     </node>
     <node id="Daughtry (band)">
       <data key="d0">52389</data>
-      <data key="d1">post-grunge, pop rock, hard rock</data>
+      <data key="d1">hard rock, pop rock, post-grunge</data>
     </node>
     <node id="Alter Bridge">
       <data key="d0">78514</data>
-      <data key="d1">alternative metal, heavy metal, post-grunge, progressive metal, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, heavy metal, post-grunge, progressive metal</data>
     </node>
     <node id="Staind">
       <data key="d0">47546</data>
-      <data key="d1">post-grunge, nu-metal, alternative metal, hard rock</data>
+      <data key="d1">alternative metal, hard rock, nu-metal, post-grunge</data>
     </node>
     <node id="Hinder">
       <data key="d0">40372</data>
-      <data key="d1">post-grunge, hard rock</data>
+      <data key="d1">hard rock, post-grunge</data>
     </node>
     <node id="Kiss (band)">
       <data key="d0">168787</data>
-      <data key="d1">heavy metal, shock rock, glam metal, hard rock</data>
+      <data key="d1">glam metal, hard rock, heavy metal, shock rock</data>
     </node>
     <node id="311 (band)">
       <data key="d0">55878</data>
-      <data key="d1">rap rock, funk metal, funk rock, reggae rock, alternative rock</data>
+      <data key="d1">alternative rock, funk metal, funk rock, rap rock, reggae rock</data>
     </node>
     <node id="Yes (band)">
       <data key="d0">133181</data>
-      <data key="d1">art rock, progressive rock, pop rock, symphonic rock</data>
+      <data key="d1">art rock, pop rock, progressive rock, symphonic rock</data>
     </node>
     <node id="Emerson, Lake &amp; Palmer">
       <data key="d0">66066</data>
@@ -193,63 +193,63 @@
     </node>
     <node id="The Cure">
       <data key="d0">102425</data>
-      <data key="d1">new wave, gothic rock, post-punk, alternative rock</data>
+      <data key="d1">alternative rock, gothic rock, new wave, post-punk</data>
     </node>
     <node id="Papa Roach">
       <data key="d0">106872</data>
-      <data key="d1">alternative metal, nu-metal, rap metal, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, nu-metal, rap metal</data>
     </node>
     <node id="The Offspring">
       <data key="d0">93836</data>
-      <data key="d1">skate punk, pop punk, punk rock, alternative rock</data>
+      <data key="d1">alternative rock, pop punk, punk rock, skate punk</data>
     </node>
     <node id="Incubus (band)">
       <data key="d0">69877</data>
-      <data key="d1">funk metal, nu-metal, alternative rock, alternative metal</data>
+      <data key="d1">alternative metal, alternative rock, funk metal, nu-metal</data>
     </node>
     <node id="Pink Floyd">
       <data key="d0">187416</data>
-      <data key="d1">art rock, progressive rock, space rock, experimental rock, psychedelic rock</data>
+      <data key="d1">art rock, experimental rock, progressive rock, psychedelic rock, space rock</data>
     </node>
     <node id="The Rolling Stones">
       <data key="d0">269856</data>
-      <data key="d1">blues, rock, pop</data>
+      <data key="d1">blues, pop, rock</data>
     </node>
     <node id="John Lennon">
       <data key="d0">189482</data>
-      <data key="d1">pop, rock, experimental</data>
+      <data key="d1">experimental, pop, rock</data>
     </node>
     <node id="Billy Joel">
       <data key="d0">180906</data>
-      <data key="d1">pop rock, soft rock, rock</data>
+      <data key="d1">pop rock, rock, soft rock</data>
     </node>
     <node id="Sublime with Rome">
       <data key="d0">36884</data>
-      <data key="d1">dub, hip hop, ska punk, reggae rock, punk rock, alternative rock</data>
+      <data key="d1">alternative rock, dub, hip hop, punk rock, reggae rock, ska punk</data>
     </node>
     <node id="Red Hot Chili Peppers">
       <data key="d0">154059</data>
-      <data key="d1">rap rock, funk metal, funk rock, alternative rock</data>
+      <data key="d1">alternative rock, funk metal, funk rock, rap rock</data>
     </node>
     <node id="Led Zeppelin">
       <data key="d0">136860</data>
-      <data key="d1">folk rock, heavy metal, blues rock, hard rock</data>
+      <data key="d1">blues rock, folk rock, hard rock, heavy metal</data>
     </node>
     <node id="Jane's Addiction">
       <data key="d0">90417</data>
-      <data key="d1">funk metal, alternative metal, alternative rock, psychedelic rock</data>
+      <data key="d1">alternative metal, alternative rock, funk metal, psychedelic rock</data>
     </node>
     <node id="Faith No More">
       <data key="d0">96778</data>
-      <data key="d1">experimental rock, funk metal, alternative rock, alternative metal</data>
+      <data key="d1">alternative metal, alternative rock, experimental rock, funk metal</data>
     </node>
     <node id="38 Special (band)">
       <data key="d0">29277</data>
-      <data key="d1">boogie rock, southern rock, blues rock, hard rock</data>
+      <data key="d1">blues rock, boogie rock, hard rock, southern rock</data>
     </node>
     <node id="Journey (band)">
       <data key="d0">85761</data>
-      <data key="d1">soft rock, progressive rock, arena rock, jazz rock, hard rock</data>
+      <data key="d1">arena rock, hard rock, jazz fusion, progressive rock, soft rock</data>
     </node>
     <node id="Peter Frampton">
       <data key="d0">60248</data>
@@ -257,23 +257,23 @@
     </node>
     <node id="Survivor (band)">
       <data key="d0">45534</data>
-      <data key="d1">arena rock, rock, hard rock</data>
+      <data key="d1">arena rock, hard rock, rock</data>
     </node>
     <node id="Bryan Adams">
       <data key="d0">248100</data>
-      <data key="d1">soft rock, arena rock, heartland rock, pop rock, rock</data>
+      <data key="d1">arena rock, heartland rock, pop rock, rock, soft rock</data>
     </node>
     <node id="Huey Lewis and the News">
       <data key="d0">35602</data>
-      <data key="d1">new wave, rhythm &amp; blues, doo-wop, rock</data>
+      <data key="d1">doo-wop, new wave, rhythm and blues, rock</data>
     </node>
     <node id="Bon Jovi">
       <data key="d0">89616</data>
-      <data key="d1">arena rock, glam metal, pop rock, hard rock</data>
+      <data key="d1">arena rock, glam metal, hard rock, pop rock</data>
     </node>
     <node id="Jefferson Starship">
       <data key="d0">66679</data>
-      <data key="d1">soft rock, progressive rock, psychedelic rock, rock, hard rock</data>
+      <data key="d1">hard rock, progressive rock, psychedelic rock, rock, soft rock</data>
     </node>
     <node id="Ted Nugent">
       <data key="d0">112802</data>
@@ -281,39 +281,39 @@
     </node>
     <node id="REO Speedwagon">
       <data key="d0">36555</data>
-      <data key="d1">blues rock, aor, arena rock, pop rock, hard rock</data>
+      <data key="d1">aor, arena rock, blues rock, hard rock, pop rock</data>
     </node>
     <node id="Styx (band)">
       <data key="d0">55443</data>
-      <data key="d1">art rock, progressive rock, arena rock, pop rock, hard rock</data>
+      <data key="d1">arena rock, art rock, hard rock, pop rock, progressive rock</data>
     </node>
     <node id="A Perfect Circle">
       <data key="d0">89175</data>
-      <data key="d1">art rock, alternative metal, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, art rock, hard rock</data>
     </node>
     <node id="Tool (band)">
       <data key="d0">138031</data>
-      <data key="d1">art rock, alternative metal, progressive rock, post-metal, progressive metal</data>
+      <data key="d1">alternative metal, art rock, post-metal, progressive metal, progressive rock</data>
     </node>
     <node id="Nine Inch Nails">
       <data key="d0">236775</data>
-      <data key="d1">industrial rock, industrial, ambient, industrial metal, electronic rock, alternative rock</data>
+      <data key="d1">alternative rock, ambient, electronic, industrial, industrial metal, industrial rock</data>
     </node>
     <node id="Primus (band)">
       <data key="d0">90641</data>
-      <data key="d1">experimental rock, funk metal, alternative metal, progressive rock</data>
+      <data key="d1">alternative metal, experimental rock, funk metal, progressive rock</data>
     </node>
     <node id="Guns N' Roses">
       <data key="d0">370245</data>
-      <data key="d1">heavy metal, hard rock</data>
+      <data key="d1">hard rock, heavy metal</data>
     </node>
     <node id="Queens of the Stone Age">
       <data key="d0">87905</data>
-      <data key="d1">alternative metal, stoner rock, desert rock, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, desert rock, hard rock, stoner rock</data>
     </node>
     <node id="Marilyn Manson (band)">
       <data key="d0">295602</data>
-      <data key="d1">industrial rock, alternative metal, shock rock, industrial metal, gothic rock</data>
+      <data key="d1">alternative metal, gothic rock, industrial metal, industrial rock, shock rock</data>
     </node>
     <node id="The Smashing Pumpkins">
       <data key="d0">140200</data>
@@ -321,47 +321,47 @@
     </node>
     <node id="System of a Down">
       <data key="d0">115439</data>
-      <data key="d1">alternative metal, nu-metal, progressive metal, hard rock</data>
+      <data key="d1">alternative metal, hard rock, nu-metal, progressive metal</data>
     </node>
     <node id="Rage Against the Machine">
       <data key="d0">140513</data>
-      <data key="d1">rap rock, funk metal, rap metal, alternative metal</data>
+      <data key="d1">alternative metal, funk metal, rap metal, rap rock</data>
     </node>
     <node id="Weezer">
       <data key="d0">169413</data>
-      <data key="d1">geek rock, emo, power pop, pop punk, pop rock, alternative rock</data>
+      <data key="d1">alternative rock, emo, geek rock, pop punk, pop rock, power pop</data>
     </node>
     <node id="Foo Fighters">
       <data key="d0">122516</data>
-      <data key="d1">post-grunge, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, hard rock, post-grunge</data>
     </node>
     <node id="Adam Ant">
       <data key="d0">94230</data>
-      <data key="d1">dance rock, new wave, post-punk, alternative rock</data>
+      <data key="d1">alternative rock, dance rock, new wave, post-punk</data>
     </node>
     <node id="Ozzy Osbourne">
       <data key="d0">179589</data>
-      <data key="d1">heavy metal, hard rock</data>
+      <data key="d1">hard rock, heavy metal</data>
     </node>
     <node id="The Beatles">
       <data key="d0">226130</data>
-      <data key="d1">psychedelia, beat, rock, pop</data>
+      <data key="d1">beat, pop, psychedelic rock, rock</data>
     </node>
     <node id="Genesis (band)">
       <data key="d0">155546</data>
-      <data key="d1">art rock, soft rock, pop rock, progressive rock</data>
+      <data key="d1">art rock, pop rock, progressive rock, soft rock</data>
     </node>
     <node id="Scorpions (band)">
       <data key="d0">69156</data>
-      <data key="d1">heavy metal, hard rock</data>
+      <data key="d1">hard rock, heavy metal</data>
     </node>
     <node id="U2">
       <data key="d0">263343</data>
-      <data key="d1">alternative rock, post-punk, pop rock, rock</data>
+      <data key="d1">alternative rock, pop rock, post-punk, rock</data>
     </node>
     <node id="Robert Plant">
       <data key="d0">91275</data>
-      <data key="d1">blues, heavy metal, country, rock, folk, hard rock</data>
+      <data key="d1">blues, country, folk, hard rock, heavy metal, rock</data>
     </node>
     <node id="Iron Maiden">
       <data key="d0">173893</data>
@@ -369,14 +369,14 @@
     </node>
     <node id="Bee Gees">
       <data key="d0">143063</data>
-      <data key="d1">soft rock, rock, disco, soul, pop</data>
+      <data key="d1">disco, pop, rock, soft rock, soul</data>
     </node>
     <node id="Accept (band)">
       <data key="d0">47788</data>
       <data key="d1">heavy metal</data>
     </node>
     <node id="AC/DC">
-      <data key="d1">rock and roll, heavy metal, blues rock, hard rock</data>
+      <data key="d1">blues rock, hard rock, heavy metal, rock and roll</data>
     </node>
     <node id="Judas Priest">
       <data key="d0">142517</data>
@@ -384,7 +384,7 @@
     </node>
     <node id="Metallica">
       <data key="d0">220223</data>
-      <data key="d1">heavy metal, thrash metal, speed metal, hard rock</data>
+      <data key="d1">hard rock, heavy metal, speed metal, thrash metal</data>
     </node>
     <node id="Slayer">
       <data key="d0">163278</data>
@@ -392,7 +392,7 @@
     </node>
     <node id="W.A.S.P. (band)">
       <data key="d0">38690</data>
-      <data key="d1">shock rock, heavy metal, glam metal</data>
+      <data key="d1">glam metal, heavy metal, shock rock</data>
     </node>
     <node id="Damn Yankees (band)">
       <data key="d0">16329</data>
@@ -404,35 +404,35 @@
     </node>
     <node id="Motörhead">
       <data key="d0">135309</data>
-      <data key="d1">heavy metal, speed metal, hard rock</data>
+      <data key="d1">hard rock, heavy metal, speed metal</data>
     </node>
     <node id="Stone Sour">
       <data key="d0">43107</data>
-      <data key="d1">post-grunge, alternative metal, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, post-grunge</data>
     </node>
     <node id="Pantera">
       <data key="d0">105938</data>
-      <data key="d1">groove metal, thrash metal, glam metal</data>
+      <data key="d1">glam metal, groove metal, thrash metal</data>
     </node>
     <node id="Anthrax (American band)">
       <data key="d0">91951</data>
-      <data key="d1">speed metal, thrash metal, groove metal, alternative metal</data>
+      <data key="d1">alternative metal, groove metal, speed metal, thrash metal</data>
     </node>
     <node id="Mötley Crüe">
       <data key="d0">189817</data>
-      <data key="d1">heavy metal, glam metal, hard rock</data>
+      <data key="d1">glam metal, hard rock, heavy metal</data>
     </node>
     <node id="Alice in Chains">
       <data key="d0">204602</data>
-      <data key="d1">alternative metal, heavy metal, sludge metal, grunge, alternative rock</data>
+      <data key="d1">alternative metal, alternative rock, grunge, heavy metal, sludge metal</data>
     </node>
     <node id="Soundgarden">
       <data key="d0">131395</data>
-      <data key="d1">heavy metal, grunge, alternative rock, alternative metal</data>
+      <data key="d1">alternative metal, alternative rock, grunge, heavy metal</data>
     </node>
     <node id="AC_DC">
       <data key="d0">183971</data>
-      <data key="d1">rock and roll, heavy metal, blues rock, hard rock</data>
+      <data key="d1">blues rock, hard rock, heavy metal, rock and roll</data>
     </node>
     <node id="The Velvet Underground">
       <data key="d0">94369</data>
@@ -440,11 +440,11 @@
     </node>
     <node id="Chuck Berry">
       <data key="d0">79957</data>
-      <data key="d1">rock and roll, rhythm and blues</data>
+      <data key="d1">rhythm and blues, rock and roll</data>
     </node>
     <node id="Lou Reed">
       <data key="d0">104387</data>
-      <data key="d1">art rock, proto-punk, rock, glam rock</data>
+      <data key="d1">art rock, glam rock, proto-punk, rock</data>
     </node>
     <node id="Deep Purple">
       <data key="d0">142082</data>
@@ -456,11 +456,11 @@
     </node>
     <node id="Aerosmith">
       <data key="d0">192596</data>
-      <data key="d1">heavy metal, blues rock, hard rock</data>
+      <data key="d1">blues rock, hard rock, heavy metal</data>
     </node>
     <node id="Blue Öyster Cult">
       <data key="d0">68229</data>
-      <data key="d1">progressive rock, heavy metal, occult rock, psychedelic rock, acid rock, hard rock</data>
+      <data key="d1">acid rock, hard rock, heavy metal, occult rock, progressive rock, psychedelic rock</data>
     </node>
     <node id="Cheap Trick">
       <data key="d0">44302</data>
@@ -476,23 +476,23 @@
     </node>
     <node id="Thin Lizzy">
       <data key="d0">87642</data>
-      <data key="d1">folk rock, heavy metal, blues rock, hard rock</data>
+      <data key="d1">blues rock, folk rock, hard rock, heavy metal</data>
     </node>
     <node id="Alice Cooper">
       <data key="d0">181017</data>
-      <data key="d1">hard rock, heavy metal, shock rock, glam rock</data>
+      <data key="d1">glam rock, hard rock, heavy metal, shock rock</data>
     </node>
     <node id="Audioslave">
       <data key="d0">87720</data>
-      <data key="d1">hard rock, post-grunge, alternative rock, alternative metal</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, post-grunge</data>
     </node>
     <node id="Def Leppard">
       <data key="d0">102123</data>
-      <data key="d1">glam metal, power pop, heavy metal, arena rock, hard rock</data>
+      <data key="d1">arena rock, glam metal, hard rock, heavy metal, power pop</data>
     </node>
     <node id="Elton John">
       <data key="d0">256840</data>
-      <data key="d1">blues, soft rock, pop rock, glam rock</data>
+      <data key="d1">blues, glam rock, pop rock, soft rock</data>
     </node>
     <node id="Sex Pistols">
       <data key="d0">115633</data>
@@ -500,23 +500,23 @@
     </node>
     <node id="T. Rex (band)">
       <data key="d0">63916</data>
-      <data key="d1">psychedelic folk, glam rock, pop</data>
+      <data key="d1">glam rock, pop, psychedelic folk</data>
     </node>
     <node id="Iggy Pop">
       <data key="d0">108998</data>
-      <data key="d1">rock, garage rock, proto-punk, punk rock, hard rock</data>
+      <data key="d1">garage rock, hard rock, proto-punk, punk rock, rock</data>
     </node>
     <node id="Rod Stewart">
       <data key="d0">133042</data>
-      <data key="d1">soft rock, blues rock, folk rock, blue-eyed soul, disco, traditional pop</data>
+      <data key="d1">blue-eyed soul, blues rock, disco, folk rock, soft rock, traditional pop</data>
     </node>
     <node id="Stevie Nicks">
       <data key="d0">144377</data>
-      <data key="d1">folk, rock, pop</data>
+      <data key="d1">folk, pop, rock</data>
     </node>
     <node id="Morrissey">
       <data key="d0">191840</data>
-      <data key="d1">indie pop, jangle pop, indie rock, alternative rock</data>
+      <data key="d1">alternative rock, indie pop, indie rock, jangle pop</data>
     </node>
     <node id="Oasis (band)">
       <data key="d0">128686</data>
@@ -524,75 +524,75 @@
     </node>
     <node id="Gene Vincent">
       <data key="d0">45505</data>
-      <data key="d1">rock and roll, country, rockabilly</data>
+      <data key="d1">country, rock and roll, rockabilly</data>
     </node>
     <node id="Eddie Cochran">
       <data key="d0">47080</data>
-      <data key="d1">rock and roll, country, rockabilly, rhythm and blues</data>
+      <data key="d1">country, rhythm and blues, rock and roll, rockabilly</data>
     </node>
     <node id="Run-DMC">
       <data key="d0">54775</data>
-      <data key="d1">rap rock, hip hop</data>
+      <data key="d1">hip hop, rap rock</data>
     </node>
     <node id="Harry Nilsson">
       <data key="d0">55372</data>
-      <data key="d1">rock, pop</data>
+      <data key="d1">pop, rock</data>
     </node>
     <node id="Nirvana (band)">
       <data key="d0">98301</data>
-      <data key="d1">grunge, punk rock, alternative rock</data>
+      <data key="d1">alternative rock, grunge, punk rock</data>
     </node>
     <node id="Kid Rock">
       <data key="d0">113100</data>
-      <data key="d1">heavy metal, country, hip hop, rock</data>
+      <data key="d1">country, heavy metal, hip hop, rock</data>
     </node>
     <node id="Train (band)">
       <data key="d0">75411</data>
-      <data key="d1">alternative rock, rock, pop rock, roots rock</data>
+      <data key="d1">alternative rock, pop rock, rock, roots rock</data>
     </node>
     <node id="Limp Bizkit">
       <data key="d0">190901</data>
-      <data key="d1">rap rock, nu-metal, rap metal</data>
+      <data key="d1">nu-metal, rap metal, rap rock</data>
     </node>
     <node id="Lenny Kravitz">
       <data key="d0">85538</data>
-      <data key="d1">funk, soul, rock</data>
+      <data key="d1">funk, rock, soul</data>
     </node>
     <node id="Joan Jett">
       <data key="d0">72416</data>
-      <data key="d1">punk rock, rock, hard rock</data>
+      <data key="d1">hard rock, punk rock, rock</data>
     </node>
     <node id="Pearl Jam">
       <data key="d0">133790</data>
-      <data key="d1">grunge, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, grunge, hard rock</data>
     </node>
     <node id="The Black Crowes">
       <data key="d0">38893</data>
-      <data key="d1">hard rock, jam band, blues rock, southern rock, roots rock</data>
+      <data key="d1">blues rock, hard rock, jam band, roots rock, southern rock</data>
     </node>
     <node id="New York Dolls">
       <data key="d0">66603</data>
-      <data key="d1">hard rock, glam punk, proto-punk, glam rock</data>
+      <data key="d1">glam punk, glam rock, hard rock, proto-punk</data>
     </node>
     <node id="Van Halen">
       <data key="d0">107232</data>
-      <data key="d1">glam metal, heavy metal, arena rock, pop rock, hard rock</data>
+      <data key="d1">arena rock, glam metal, hard rock, heavy metal, pop rock</data>
     </node>
     <node id="Ratt">
       <data key="d0">47219</data>
-      <data key="d1">heavy metal, glam metal, hard rock</data>
+      <data key="d1">glam metal, hard rock, heavy metal</data>
     </node>
     <node id="Tesla (band)">
       <data key="d0">29925</data>
-      <data key="d1">glam metal, blues rock, hard rock</data>
+      <data key="d1">blues rock, glam metal, hard rock</data>
     </node>
     <node id="Cinderella (band)">
       <data key="d0">26247</data>
-      <data key="d1">glam metal, blues rock, hard rock</data>
+      <data key="d1">blues rock, glam metal, hard rock</data>
     </node>
     <node id="Skid Row (American band)">
       <data key="d0">53311</data>
-      <data key="d1">heavy metal, glam metal, hard rock</data>
+      <data key="d1">glam metal, hard rock, heavy metal</data>
     </node>
     <node id="Extreme (band)">
       <data key="d0">25151</data>
@@ -600,19 +600,19 @@
     </node>
     <node id="Warrant (American band)">
       <data key="d0">30944</data>
-      <data key="d1">heavy metal, glam metal, hard rock</data>
+      <data key="d1">glam metal, hard rock, heavy metal</data>
     </node>
     <node id="Velvet Revolver">
       <data key="d0">68154</data>
-      <data key="d1">hard rock, alternative metal</data>
+      <data key="d1">alternative metal, hard rock</data>
     </node>
     <node id="Radiohead">
       <data key="d0">217721</data>
-      <data key="d1">art rock, experimental rock, electronica, alternative rock</data>
+      <data key="d1">alternative rock, art rock, electronic, experimental rock</data>
     </node>
     <node id="Godsmack">
       <data key="d0">90298</data>
-      <data key="d1">post-grunge, nu-metal, alternative metal, hard rock</data>
+      <data key="d1">alternative metal, hard rock, nu-metal, post-grunge</data>
     </node>
     <node id="Heart (band)">
       <data key="d0">83843</data>
@@ -624,7 +624,7 @@
     </node>
     <node id="AFI (band)">
       <data key="d0">61606</data>
-      <data key="d1">post-hardcore, emo, hardcore punk, horror punk, gothic rock, punk rock</data>
+      <data key="d1">emo, gothic rock, hardcore punk, horror punk, post-hardcore, punk rock</data>
     </node>
     <node id="David Bowie">
       <data key="d0">261246</data>
@@ -632,43 +632,43 @@
     </node>
     <node id="Green Day">
       <data key="d0">218381</data>
-      <data key="d1">power pop, pop punk, skate punk, punk rock, alternative rock</data>
+      <data key="d1">alternative rock, pop punk, power pop, punk rock, skate punk</data>
     </node>
     <node id="My Chemical Romance">
       <data key="d0">181955</data>
-      <data key="d1">post-hardcore, emo, pop punk, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, emo, hard rock, pop punk, post-hardcore</data>
     </node>
     <node id="Joy Division">
       <data key="d0">56531</data>
-      <data key="d1">new wave, gothic rock, post-punk</data>
+      <data key="d1">gothic rock, new wave, post-punk</data>
     </node>
     <node id="Echo &amp; the Bunnymen">
       <data key="d0">47526</data>
-      <data key="d1">new wave, post-punk, neo-psychedelia</data>
+      <data key="d1">neo-psychedelia, new wave, post-punk</data>
     </node>
     <node id="Panic! at the Disco">
       <data key="d0">135603</data>
-      <data key="d1">baroque pop, emo, pop punk, pop rock, electropop, alternative rock</data>
+      <data key="d1">alternative rock, baroque pop, electropop, emo, pop punk, pop rock</data>
     </node>
     <node id="Air Supply">
       <data key="d0">52244</data>
-      <data key="d1">soft rock, pop rock, pop</data>
+      <data key="d1">pop, pop rock, soft rock</data>
     </node>
     <node id="Chicago (band)">
       <data key="d0">244762</data>
-      <data key="d1">jazz rock, soft rock, pop rock, rock</data>
+      <data key="d1">jazz fusion, pop rock, rock, soft rock</data>
     </node>
     <node id="Cold Chisel">
       <data key="d0">74591</data>
-      <data key="d1">rock and roll, rhythm and blues, pub rock, hard rock</data>
+      <data key="d1">hard rock, pub rock, rhythm and blues, rock and roll</data>
     </node>
     <node id="Alanis Morissette">
       <data key="d0">122316</data>
-      <data key="d1">electronica, trip hop, indie pop, pop rock, alternative rock</data>
+      <data key="d1">alternative rock, electronic, indie pop, pop rock, trip hop</data>
     </node>
     <node id="Avril Lavigne">
       <data key="d0">247390</data>
-      <data key="d1">pop, pop punk, pop rock, alternative rock</data>
+      <data key="d1">alternative rock, pop, pop punk, pop rock</data>
     </node>
     <node id="Dave Matthews Band">
       <data key="d0">79173</data>
@@ -676,115 +676,115 @@
     </node>
     <node id="Barenaked Ladies">
       <data key="d0">82721</data>
-      <data key="d1">folk rock, comedy rock, alternative pop, pop rock</data>
+      <data key="d1">alternative pop, comedy rock, folk rock, pop rock</data>
     </node>
     <node id="Matchbox Twenty">
       <data key="d0">37903</data>
-      <data key="d1">post-grunge, pop rock, alternative rock</data>
+      <data key="d1">alternative rock, pop rock, post-grunge</data>
     </node>
     <node id="No Doubt">
       <data key="d0">67355</data>
-      <data key="d1">reggae, pop punk, pop rock, ska punk, new wave, alternative rock</data>
+      <data key="d1">alternative rock, new wave, pop punk, pop rock, reggae, ska punk</data>
     </node>
     <node id="Garbage (band)">
       <data key="d0">103859</data>
-      <data key="d1">industrial rock, trip hop, dance rock, electronic rock, alternative rock</data>
+      <data key="d1">alternative rock, dance rock, electronic, industrial rock, trip hop</data>
     </node>
     <node id="Neil Young">
       <data key="d0">180559</data>
-      <data key="d1">folk rock, country rock, rock</data>
+      <data key="d1">country rock, folk rock, rock</data>
     </node>
     <node id="Alice Cooper (band)">
       <data key="d0">39483</data>
-      <data key="d1">hard rock, psychedelic rock, shock rock, glam rock</data>
+      <data key="d1">glam rock, hard rock, psychedelic rock, shock rock</data>
     </node>
     <node id="Manfred Mann">
       <data key="d0">26613</data>
-      <data key="d1">blues rock, beat, rhythm and blues, psychedelia, pop</data>
+      <data key="d1">beat, blues rock, pop, psychedelic rock, rhythm and blues</data>
     </node>
     <node id="White Zombie (band)">
       <data key="d0">28803</data>
-      <data key="d1">groove metal, alternative metal, dance rock, stoner rock, industrial metal, noise rock</data>
+      <data key="d1">alternative metal, dance rock, groove metal, industrial metal, noise rock, stoner rock</data>
     </node>
     <node id="Elvis Presley">
       <data key="d0">215098</data>
-      <data key="d1">rockabilly, blues, gospel, rock and roll, rhythm and blues, country, soul, pop</data>
+      <data key="d1">blues, country, gospel, pop, rhythm and blues, rock and roll, rockabilly, soul</data>
     </node>
     <node id="The Who">
       <data key="d0">179933</data>
-      <data key="d1">hard rock, proto-punk, power pop, rock</data>
+      <data key="d1">hard rock, power pop, proto-punk, rock</data>
     </node>
     <node id="The Doors">
       <data key="d0">99930</data>
-      <data key="d1">psychedelic rock, acid rock, blues rock</data>
+      <data key="d1">acid rock, blues rock, psychedelic rock</data>
     </node>
     <node id="The Beach Boys">
       <data key="d0">233622</data>
-      <data key="d1">psychedelia, surf, rock, pop</data>
+      <data key="d1">pop, psychedelic rock, rock, surf</data>
     </node>
     <node id="Donovan">
       <data key="d0">74618</data>
-      <data key="d1">psychedelia, folk, rock, pop</data>
+      <data key="d1">folk, pop, psychedelic rock, rock</data>
     </node>
     <node id="Twisted Sister">
       <data key="d0">44930</data>
-      <data key="d1">heavy metal, shock rock, glam metal, hard rock</data>
+      <data key="d1">glam metal, hard rock, heavy metal, shock rock</data>
     </node>
     <node id="Marilyn Manson">
       <data key="d0">233125</data>
-      <data key="d1">industrial rock, alternative metal, shock rock, industrial metal, gothic rock</data>
+      <data key="d1">alternative metal, gothic rock, industrial metal, industrial rock, shock rock</data>
     </node>
     <node id="Rob Zombie">
       <data key="d0">128698</data>
-      <data key="d1">groove metal, alternative metal, shock rock, nu-metal, industrial metal, hard rock</data>
+      <data key="d1">alternative metal, groove metal, hard rock, industrial metal, nu-metal, shock rock</data>
     </node>
     <node id="Jackson Browne">
       <data key="d0">54159</data>
-      <data key="d1">soft rock, folk rock, country rock, pop rock, rock</data>
+      <data key="d1">country rock, folk rock, pop rock, rock, soft rock</data>
     </node>
     <node id="Theory of a Deadman">
       <data key="d0">39638</data>
-      <data key="d1">alternative metal, post-grunge, pop rock, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, pop rock, post-grunge</data>
     </node>
     <node id="Edgar Winter">
       <data key="d0">40690</data>
-      <data key="d1">blues rock, jazz fusion, blue-eyed soul, southern rock, boogie rock, pop</data>
+      <data key="d1">blue-eyed soul, blues rock, boogie rock, jazz fusion, pop, southern rock</data>
     </node>
     <node id="Filter (band)">
       <data key="d0">51433</data>
-      <data key="d1">industrial rock, alternative metal, post-grunge, industrial metal, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, industrial metal, industrial rock, post-grunge</data>
     </node>
     <node id="Midnight Oil">
       <data key="d0">113705</data>
-      <data key="d1">new wave, post-punk, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, hard rock, new wave, post-punk</data>
     </node>
     <node id="Bob Dylan">
       <data key="d0">264174</data>
-      <data key="d1">blues, gospel, country, rock, folk, traditional pop</data>
+      <data key="d1">blues, country, folk, gospel, rock, traditional pop</data>
     </node>
     <node id="The Flaming Lips">
       <data key="d0">72349</data>
-      <data key="d1">indie rock, experimental rock, psychedelic rock, neo-psychedelia, alternative rock</data>
+      <data key="d1">alternative rock, experimental rock, indie rock, neo-psychedelia, psychedelic rock</data>
     </node>
     <node id="Stevie Ray Vaughan">
       <data key="d0">101998</data>
-      <data key="d1">rock and roll, electric blues, texas blues, blues rock</data>
+      <data key="d1">blues rock, electric blues, rock and roll, texas blues</data>
     </node>
     <node id="Linda Ronstadt">
       <data key="d0">190765</data>
-      <data key="d1">country, rock, pop</data>
+      <data key="d1">country, pop, rock</data>
     </node>
     <node id="Don Henley">
       <data key="d0">69044</data>
-      <data key="d1">folk rock, country rock, pop rock, rock, hard rock</data>
+      <data key="d1">country rock, folk rock, hard rock, pop rock, rock</data>
     </node>
     <node id="Poison (American band)">
       <data key="d0">74</data>
-      <data key="d1">heavy metal, glam metal, hard rock</data>
+      <data key="d1">glam metal, hard rock, heavy metal</data>
     </node>
     <node id="Chris Cornell">
       <data key="d0">218933</data>
-      <data key="d1">alternative metal, heavy metal, grunge, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, grunge, hard rock, heavy metal</data>
     </node>
     <node id="Queensrÿche">
       <data key="d0">81189</data>
@@ -792,27 +792,27 @@
     </node>
     <node id="The Cult">
       <data key="d0">90817</data>
-      <data key="d1">post-punk, heavy metal, gothic rock, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, gothic rock, hard rock, heavy metal, post-punk</data>
     </node>
     <node id="Lamb of God (band)">
       <data key="d0">95482</data>
-      <data key="d1">death metal, metalcore, groove metal, thrash metal</data>
+      <data key="d1">death metal, groove metal, metalcore, thrash metal</data>
     </node>
     <node id="Avenged Sevenfold">
       <data key="d0">106161</data>
-      <data key="d1">metalcore, alternative metal, heavy metal, progressive metal, hard rock</data>
+      <data key="d1">alternative metal, hard rock, heavy metal, metalcore, progressive metal</data>
     </node>
     <node id="Dallas Green (musician)">
       <data key="d0">57</data>
-      <data key="d1">post-hardcore, acoustic, indie folk, melodic hardcore, screamo, alternative rock</data>
+      <data key="d1">acoustic, alternative rock, indie folk, melodic hardcore, post-hardcore, screamo</data>
     </node>
     <node id="Funkadelic">
       <data key="d0">18848</data>
-      <data key="d1">acid rock, psychedelic rock, funk rock, psychedelic funk</data>
+      <data key="d1">acid rock, funk rock, psychedelic funk, psychedelic rock</data>
     </node>
     <node id="Jimi Hendrix">
       <data key="d0">179515</data>
-      <data key="d1">psychedelia, blues, rhythm and blues, rock</data>
+      <data key="d1">blues, psychedelic rock, rhythm and blues, rock</data>
     </node>
     <node id="Eddie Money">
       <data key="d0">37081</data>
@@ -820,83 +820,83 @@
     </node>
     <node id="Pixies (band)">
       <data key="d0">94328</data>
-      <data key="d1">indie rock, surf rock, noise pop, punk rock, alternative rock</data>
+      <data key="d1">alternative rock, indie rock, noise pop, punk rock, surf rock</data>
     </node>
     <node id="Three Days Grace">
       <data key="d0">126728</data>
-      <data key="d1">alternative metal, post-grunge, nu-metal, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, nu-metal, post-grunge</data>
     </node>
     <node id="Bush (British band)">
       <data key="d0">46333</data>
-      <data key="d1">post-grunge, grunge, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, grunge, hard rock, post-grunge</data>
     </node>
     <node id="Creed (band)">
       <data key="d0">78856</data>
-      <data key="d1">hard rock, post-grunge, alternative rock, alternative metal</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, post-grunge</data>
     </node>
     <node id="Days of the New">
       <data key="d0">37336</data>
-      <data key="d1">acoustic, post-grunge, alternative rock</data>
+      <data key="d1">acoustic, alternative rock, post-grunge</data>
     </node>
     <node id="Hoobastank">
       <data key="d0">30670</data>
-      <data key="d1">post-grunge, funk metal, nu-metal, ska punk, alternative rock</data>
+      <data key="d1">alternative rock, funk metal, nu-metal, post-grunge, ska punk</data>
     </node>
     <node id="Seether">
       <data key="d0">46452</data>
-      <data key="d1">alternative metal, post-grunge, nu-metal, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, nu-metal, post-grunge</data>
     </node>
     <node id="Little Richard">
       <data key="d0">161904</data>
-      <data key="d1">rock and roll, gospel, rhythm and blues, soul</data>
+      <data key="d1">gospel, rhythm and blues, rock and roll, soul</data>
     </node>
     <node id="Fuel (band)">
       <data key="d0">35297</data>
-      <data key="d1">hard rock, post-grunge, alternative rock, alternative metal</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, post-grunge</data>
     </node>
     <node id="Lacuna Coil">
       <data key="d0">45461</data>
-      <data key="d1">gothic metal, alternative metal</data>
+      <data key="d1">alternative metal, gothic metal</data>
     </node>
     <node id="Black Stone Cherry">
       <data key="d0">19796</data>
-      <data key="d1">southern rock, hard rock</data>
+      <data key="d1">hard rock, southern rock</data>
     </node>
     <node id="Halestorm">
       <data key="d0">39602</data>
-      <data key="d1">alternative metal, heavy metal, post-grunge, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, heavy metal, post-grunge</data>
     </node>
     <node id="Volbeat">
       <data key="d0">40721</data>
-      <data key="d1">groove metal, heavy metal, rock and roll, psychobilly, rockabilly, hard rock</data>
+      <data key="d1">groove metal, hard rock, heavy metal, psychobilly, rock and roll, rockabilly</data>
     </node>
     <node id="Ambrosia (band)">
       <data key="d0">30410</data>
-      <data key="d1">jazz fusion, blue-eyed soul, soft rock, progressive rock</data>
+      <data key="d1">blue-eyed soul, jazz fusion, progressive rock, soft rock</data>
     </node>
     <node id="The Alan Parsons Project">
       <data key="d0">23041</data>
-      <data key="d1">art rock, progressive pop, soft rock, progressive rock</data>
+      <data key="d1">art rock, progressive pop, progressive rock, soft rock</data>
     </node>
     <node id="Fleetwood Mac">
       <data key="d0">125399</data>
-      <data key="d1">pop rock, soft rock, blues rock, art pop</data>
+      <data key="d1">art pop, blues rock, pop rock, soft rock</data>
     </node>
     <node id="Kenny Loggins">
       <data key="d0">45274</data>
-      <data key="d1">soft rock, folk rock, rhythm and blues, rock, soul, pop</data>
+      <data key="d1">folk rock, pop, rhythm and blues, rock, soft rock, soul</data>
     </node>
     <node id="Eagles (band)">
       <data key="d0">102072</data>
-      <data key="d1">folk rock, soft rock, country rock, rock</data>
+      <data key="d1">country rock, folk rock, rock, soft rock</data>
     </node>
     <node id="America (band)">
       <data key="d0">52762</data>
-      <data key="d1">folk rock, pop rock, soft rock, country rock</data>
+      <data key="d1">country rock, folk rock, pop rock, soft rock</data>
     </node>
     <node id="Crosby, Stills, Nash &amp; Young">
       <data key="d0">96975</data>
-      <data key="d1">folk rock, folk pop, soft rock, country rock</data>
+      <data key="d1">country rock, folk pop, folk rock, soft rock</data>
     </node>
     <node id="The Mamas &amp; the Papas">
       <data key="d0">51499</data>
@@ -904,27 +904,27 @@
     </node>
     <node id="Christopher Cross">
       <data key="d0">43402</data>
-      <data key="d1">pop, soft rock, rock, yacht rock</data>
+      <data key="d1">pop, rock, soft rock, yacht rock</data>
     </node>
     <node id="Three Dog Night">
       <data key="d0">38512</data>
-      <data key="d1">soft rock, blue-eyed soul, funk rock, pop rock, roots rock</data>
+      <data key="d1">blue-eyed soul, funk rock, pop rock, roots rock, soft rock</data>
     </node>
     <node id="Gin Blossoms">
       <data key="d0">31080</data>
-      <data key="d1">country rock, jangle pop, power pop, alternative rock</data>
+      <data key="d1">alternative rock, country rock, jangle pop, power pop</data>
     </node>
     <node id="Living Colour">
       <data key="d0">35978</data>
-      <data key="d1">hard rock, funk metal, alternative metal</data>
+      <data key="d1">alternative metal, funk metal, hard rock</data>
     </node>
     <node id="Evanescence">
       <data key="d0">184256</data>
-      <data key="d1">industrial rock, alternative metal, gothic metal, symphonic metal, nu-metal, gothic rock, hard rock</data>
+      <data key="d1">alternative metal, gothic metal, gothic rock, hard rock, industrial rock, nu-metal, symphonic metal</data>
     </node>
     <node id="Slipknot (band)">
       <data key="d0">149687</data>
-      <data key="d1">groove metal, nu-metal, alternative metal</data>
+      <data key="d1">alternative metal, groove metal, nu-metal</data>
     </node>
     <node id="Killswitch Engage">
       <data key="d0">75350</data>
@@ -932,7 +932,7 @@
     </node>
     <node id="Sepultura">
       <data key="d0">97071</data>
-      <data key="d1">death metal, groove metal, thrash metal, alternative metal</data>
+      <data key="d1">alternative metal, death metal, groove metal, thrash metal</data>
     </node>
     <node id="April Wine">
       <data key="d0">37328</data>
@@ -940,7 +940,7 @@
     </node>
     <node id="The Guess Who">
       <data key="d0">48528</data>
-      <data key="d1">garage rock, psychedelic rock, blues rock, hard rock</data>
+      <data key="d1">blues rock, garage rock, hard rock, psychedelic rock</data>
     </node>
     <node id="Badfinger">
       <data key="d0">93637</data>
@@ -948,11 +948,11 @@
     </node>
     <node id="Bachman–Turner Overdrive">
       <data key="d0">64779</data>
-      <data key="d1">boogie rock, rock, hard rock</data>
+      <data key="d1">boogie rock, hard rock, rock</data>
     </node>
     <node id="Loverboy">
       <data key="d0">23472</data>
-      <data key="d1">arena rock, new wave, pop rock, hard rock</data>
+      <data key="d1">arena rock, hard rock, new wave, pop rock</data>
     </node>
     <node id="Uriah Heep (band)">
       <data key="d0">67146</data>
@@ -960,15 +960,15 @@
     </node>
     <node id="Foreigner (band)">
       <data key="d0">76189</data>
-      <data key="d1">arena rock, soft rock, hard rock</data>
+      <data key="d1">arena rock, hard rock, soft rock</data>
     </node>
     <node id="Meat Loaf">
       <data key="d0">123337</data>
-      <data key="d1">rock, hard rock</data>
+      <data key="d1">hard rock, rock</data>
     </node>
     <node id="Arcade Fire">
       <data key="d0">106130</data>
-      <data key="d1">art rock, indie rock, baroque pop, dance rock</data>
+      <data key="d1">art rock, baroque pop, dance rock, indie rock</data>
     </node>
     <node id="Bruce Springsteen">
       <data key="d0">216261</data>
@@ -976,131 +976,131 @@
     </node>
     <node id="Beck">
       <data key="d0">122512</data>
-      <data key="d1">electronic, folk rock, lo-fi, psychedelia, alt-country, alternative rock</data>
+      <data key="d1">alt-country, alternative rock, electronic, folk rock, lo-fi, psychedelic rock</data>
     </node>
     <node id="Arctic Monkeys">
       <data key="d0">160138</data>
-      <data key="d1">indie rock, lounge pop, psychedelic rock, garage rock, post-punk revival</data>
+      <data key="d1">garage rock, indie rock, lounge pop, post-punk revival, psychedelic rock</data>
     </node>
     <node id="Cream (band)">
       <data key="d0">41072</data>
-      <data key="d1">blues rock, psychedelic rock, jam rock, acid rock, hard rock</data>
+      <data key="d1">acid rock, blues rock, hard rock, jam rock, psychedelic rock</data>
     </node>
     <node id="Elvis Costello">
       <data key="d0">179983</data>
-      <data key="d1">power pop, pub rock, rock, new wave, punk rock, pop</data>
+      <data key="d1">new wave, pop, power pop, pub rock, punk rock, rock</data>
     </node>
     <node id="Royal Blood (band)">
       <data key="d0">33887</data>
-      <data key="d1">blues rock, stoner rock, garage rock, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, blues rock, garage rock, hard rock, stoner rock</data>
     </node>
     <node id="Bring Me the Horizon">
       <data key="d0">197042</data>
-      <data key="d1">metalcore, post-hardcore, alternative metal, deathcore, pop rock, electronic rock, alternative rock</data>
+      <data key="d1">alternative metal, alternative rock, deathcore, electronic, metalcore, pop rock, post-hardcore</data>
     </node>
     <node id="Sam Fender">
       <data key="d0">169838</data>
-      <data key="d1">indie rock, heartland rock, pop rock, rock</data>
+      <data key="d1">heartland rock, indie rock, pop rock, rock</data>
     </node>
     <node id="Manfred Mann's Earth Band">
       <data key="d0">42779</data>
-      <data key="d1">jazz rock, progressive rock, hard rock</data>
+      <data key="d1">hard rock, jazz fusion, progressive rock</data>
     </node>
     <node id="James Blunt">
       <data key="d0">74903</data>
-      <data key="d1">folk rock, folk pop, soft rock, pop rock</data>
+      <data key="d1">folk pop, folk rock, pop rock, soft rock</data>
     </node>
     <node id="Bullet for My Valentine">
       <data key="d0">123481</data>
-      <data key="d1">melodic metalcore, heavy metal, thrash metal, hard rock</data>
+      <data key="d1">hard rock, heavy metal, melodic metalcore, thrash metal</data>
     </node>
     <node id="Black Veil Brides">
       <data key="d0">96105</data>
-      <data key="d1">metalcore, glam metal, alternative metal, gothic metal, hard rock</data>
+      <data key="d1">alternative metal, glam metal, gothic metal, hard rock, metalcore</data>
     </node>
     <node id="Cage the Elephant">
       <data key="d0">48300</data>
-      <data key="d1">indie rock, punk blues, post-punk, psychedelic rock, garage rock, alternative rock</data>
+      <data key="d1">alternative rock, garage rock, indie rock, post-punk, psychedelic rock, punk blues</data>
     </node>
     <node id="Five Finger Death Punch">
       <data key="d0">104751</data>
-      <data key="d1">groove metal, alternative metal, hard rock</data>
+      <data key="d1">alternative metal, groove metal, hard rock</data>
     </node>
     <node id="Chevelle (band)">
       <data key="d0">102084</data>
-      <data key="d1">alternative metal, post-grunge, nu-metal, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, nu-metal, post-grunge</data>
     </node>
     <node id="Trivium (band)">
       <data key="d0">89176</data>
-      <data key="d1">metalcore, heavy metal, thrash metal, progressive metal</data>
+      <data key="d1">heavy metal, metalcore, progressive metal, thrash metal</data>
     </node>
     <node id="Our Lady Peace">
       <data key="d0">60117</data>
-      <data key="d1">post-grunge, alternative rock</data>
+      <data key="d1">alternative rock, post-grunge</data>
     </node>
     <node id="Goo Goo Dolls">
       <data key="d0">51233</data>
-      <data key="d1">punk rock, pop rock, alternative rock</data>
+      <data key="d1">alternative rock, pop rock, punk rock</data>
     </node>
     <node id="Boys Like Girls">
       <data key="d0">61385</data>
-      <data key="d1">alternative rock, pop punk, pop rock, emo pop</data>
+      <data key="d1">alternative rock, emo pop, pop punk, pop rock</data>
     </node>
     <node id="Billy Idol">
       <data key="d0">65979</data>
-      <data key="d1">new wave, punk rock, pop rock, hard rock</data>
+      <data key="d1">hard rock, new wave, pop rock, punk rock</data>
     </node>
     <node id="Simple Plan">
       <data key="d0">63266</data>
-      <data key="d1">emo, power pop, pop punk, pop rock, alternative rock</data>
+      <data key="d1">alternative rock, emo, pop punk, pop rock, power pop</data>
     </node>
     <node id="Blink-182">
       <data key="d0">141432</data>
-      <data key="d1">skate punk, pop punk, punk rock, alternative rock</data>
+      <data key="d1">alternative rock, pop punk, punk rock, skate punk</data>
     </node>
     <node id="Sum 41">
       <data key="d0">203207</data>
-      <data key="d1">alternative metal, pop punk, melodic hardcore, skate punk, punk rock, alternative rock</data>
+      <data key="d1">alternative metal, alternative rock, melodic hardcore, pop punk, punk rock, skate punk</data>
     </node>
     <node id="Janis Joplin">
       <data key="d0">142710</data>
-      <data key="d1">blues, psychedelic rock, soul, blues rock</data>
+      <data key="d1">blues, blues rock, psychedelic rock, soul</data>
     </node>
     <node id="Hole (band)">
       <data key="d0">104116</data>
-      <data key="d1">power pop, noise rock, grunge, punk rock, alternative rock</data>
+      <data key="d1">alternative rock, grunge, noise rock, power pop, punk rock</data>
     </node>
     <node id="Coldplay">
       <data key="d0">294838</data>
-      <data key="d1">pop rock, pop, post-britpop, alternative rock</data>
+      <data key="d1">alternative rock, pop, pop rock, post-britpop</data>
     </node>
     <node id="Third Eye Blind">
       <data key="d0">86355</data>
-      <data key="d1">power pop, post-grunge, pop punk, pop rock, alternative rock</data>
+      <data key="d1">alternative rock, pop punk, pop rock, post-grunge, power pop</data>
     </node>
     <node id="Dashboard Confessional">
       <data key="d0">39190</data>
-      <data key="d1">indie rock, acoustic rock, emo, alternative rock</data>
+      <data key="d1">acoustic rock, alternative rock, emo, indie rock</data>
     </node>
     <node id="Paramore">
       <data key="d0">192646</data>
-      <data key="d1">emo, power pop, pop punk, pop rock, new wave, alternative rock</data>
+      <data key="d1">alternative rock, emo, new wave, pop punk, pop rock, power pop</data>
     </node>
     <node id="Awolnation">
       <data key="d0">59975</data>
-      <data key="d1">indie rock, dance rock, pop rock, electronic rock, electropop, alternative rock</data>
+      <data key="d1">alternative rock, dance rock, electronic, electropop, indie rock, pop rock</data>
     </node>
     <node id="Fall Out Boy">
       <data key="d0">232732</data>
-      <data key="d1">pop rock, pop punk, emo, alternative rock</data>
+      <data key="d1">alternative rock, emo, pop punk, pop rock</data>
     </node>
     <node id="Twenty One Pilots">
       <data key="d0">198286</data>
-      <data key="d1">indie pop, pop rap, electropop, pop rock, alternative hip-hop, alternative rock</data>
+      <data key="d1">alternative hip-hop, alternative rock, electropop, indie pop, pop rap, pop rock</data>
     </node>
     <node id="The Cars">
       <data key="d0">26304</data>
-      <data key="d1">synth-rock, new wave, power pop, pop rock</data>
+      <data key="d1">new wave, pop rock, power pop, synth-rock</data>
     </node>
     <node id="Rise Against">
       <data key="d0">113444</data>
@@ -1108,11 +1108,11 @@
     </node>
     <node id="Creedence Clearwater Revival">
       <data key="d0">65424</data>
-      <data key="d1">blues rock, southern rock, country rock, swamp rock, roots rock</data>
+      <data key="d1">blues rock, country rock, roots rock, southern rock, swamp rock</data>
     </node>
     <node id="The Doobie Brothers">
       <data key="d0">71808</data>
-      <data key="d1">blue-eyed soul, soft rock, rock, pop</data>
+      <data key="d1">blue-eyed soul, pop, rock, soft rock</data>
     </node>
     <node id="Bad Company">
       <data key="d0">34775</data>
@@ -1120,15 +1120,15 @@
     </node>
     <node id="Small Faces">
       <data key="d0">50561</data>
-      <data key="d1">progressive pop, beat, rhythm and blues, rock, psychedelia, proto-punk, pop</data>
+      <data key="d1">beat, pop, progressive pop, proto-punk, psychedelic rock, rhythm and blues, rock</data>
     </node>
     <node id="Billy Squier">
       <data key="d0">28033</data>
-      <data key="d1">pop rock, arena rock, power pop, hard rock</data>
+      <data key="d1">arena rock, hard rock, pop rock, power pop</data>
     </node>
     <node id="Joe Walsh">
       <data key="d0">75568</data>
-      <data key="d1">blues rock, progressive rock, country rock, pop rock, hard rock</data>
+      <data key="d1">blues rock, country rock, hard rock, pop rock, progressive rock</data>
     </node>
     <node id="James Taylor">
       <data key="d0">90638</data>
@@ -1136,79 +1136,79 @@
     </node>
     <node id="Beastie Boys">
       <data key="d0">130066</data>
-      <data key="d1">rap rock, alternative hip-hop, hip hop, hardcore punk</data>
+      <data key="d1">alternative hip-hop, hardcore punk, hip hop, rap rock</data>
     </node>
     <node id="Bay City Rollers">
       <data key="d0">79812</data>
-      <data key="d1">pop, pop rock, glam rock</data>
+      <data key="d1">glam rock, pop, pop rock</data>
     </node>
     <node id="The Kinks">
       <data key="d0">121783</data>
-      <data key="d1">rock, pop</data>
+      <data key="d1">pop, rock</data>
     </node>
     <node id="Mitch Ryder">
       <data key="d0">16196</data>
-      <data key="d1">blue-eyed soul, rock and roll, frat rock, rhythm and blues, hard rock</data>
+      <data key="d1">blue-eyed soul, frat rock, hard rock, rhythm and blues, rock and roll</data>
     </node>
     <node id="The Four Seasons (band)">
       <data key="d0">90824</data>
-      <data key="d1">doo-wop, rock and roll, pop rock, soul, pop</data>
+      <data key="d1">doo-wop, pop, pop rock, rock and roll, soul</data>
     </node>
     <node id="Sly and the Family Stone">
       <data key="d0">58443</data>
-      <data key="d1">psychedelic soul, funk, rock, progressive soul</data>
+      <data key="d1">funk, progressive soul, psychedelic soul, rock</data>
     </node>
     <node id="Live (band)">
       <data key="d0">36154</data>
-      <data key="d1">post-grunge, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, hard rock, post-grunge</data>
     </node>
     <node id="R.E.M.">
       <data key="d0">120523</data>
-      <data key="d1">post-punk, college rock, folk rock, jangle pop, alternative rock</data>
+      <data key="d1">alternative rock, college rock, folk rock, jangle pop, post-punk</data>
     </node>
     <node id="Sublime (band)">
       <data key="d0">48477</data>
-      <data key="d1">ska punk, reggae rock</data>
+      <data key="d1">reggae rock, ska punk</data>
     </node>
     <node id="Blur (band)">
       <data key="d0">81406</data>
-      <data key="d1">indie rock, britpop, alternative rock, art pop</data>
+      <data key="d1">alternative rock, art pop, britpop, indie rock</data>
     </node>
     <node id="Sonic Youth">
       <data key="d0">78130</data>
-      <data key="d1">indie rock, post-punk, experimental rock, noise rock, no wave, alternative rock</data>
+      <data key="d1">alternative rock, experimental rock, indie rock, no wave, noise rock, post-punk</data>
     </node>
     <node id="X (American band)">
       <data key="d0">32895</data>
-      <data key="d1">punk rock, alternative rock</data>
+      <data key="d1">alternative rock, punk rock</data>
     </node>
     <node id="Tom Petty">
       <data key="d0">95068</data>
-      <data key="d1">southern rock, country rock, heartland rock, rock, roots rock</data>
+      <data key="d1">country rock, heartland rock, rock, roots rock, southern rock</data>
     </node>
     <node id="The Zombies">
       <data key="d0">57973</data>
-      <data key="d1">baroque pop, beat, psychedelic pop, proto-prog, rhythm and blues, rock</data>
+      <data key="d1">baroque pop, beat, progressive rock, psychedelic pop, rhythm and blues, rock</data>
     </node>
     <node id="INXS">
       <data key="d0">91294</data>
-      <data key="d1">pub rock, dance rock, funk rock, new wave, alternative rock</data>
+      <data key="d1">alternative rock, dance rock, funk rock, new wave, pub rock</data>
     </node>
     <node id="Fun (band)">
       <data key="d0">25152</data>
-      <data key="d1">indie rock, baroque pop, pop rock, indie pop</data>
+      <data key="d1">baroque pop, indie pop, indie rock, pop rock</data>
     </node>
     <node id="Talking Heads">
       <data key="d0">55323</data>
-      <data key="d1">post-punk, avant-funk, worldbeat, new wave, art pop</data>
+      <data key="d1">art pop, avant-funk, new wave, post-punk, worldbeat</data>
     </node>
     <node id="Sting (musician)">
       <data key="d0">117134</data>
-      <data key="d1">post-punk, new wave, soft rock, pop</data>
+      <data key="d1">new wave, pop, post-punk, soft rock</data>
     </node>
     <node id="Imagine Dragons">
       <data key="d0">112557</data>
-      <data key="d1">indie pop, arena rock, pop rock, electropop, alternative rock, pop</data>
+      <data key="d1">alternative rock, arena rock, electropop, indie pop, pop, pop rock</data>
     </node>
     <node id="Chubby Checker">
       <data key="d0">46174</data>
@@ -1216,7 +1216,7 @@
     </node>
     <node id="Jerry Lee Lewis">
       <data key="d0">94366</data>
-      <data key="d1">blues, gospel, honky-tonk, rock and roll, boogie-woogie, country, rockabilly</data>
+      <data key="d1">blues, boogie-woogie, country, gospel, honky-tonk, rock and roll, rockabilly</data>
     </node>
     <node id="Eric Clapton">
       <data key="d0">200541</data>
@@ -1224,19 +1224,19 @@
     </node>
     <node id="Roy Orbison">
       <data key="d0">100684</data>
-      <data key="d1">rock and roll, country, rock, rockabilly, pop</data>
+      <data key="d1">country, pop, rock, rock and roll, rockabilly</data>
     </node>
     <node id="Phil Collins">
       <data key="d0">188385</data>
-      <data key="d1">art rock, pop, soft rock, progressive rock</data>
+      <data key="d1">art rock, pop, progressive rock, soft rock</data>
     </node>
     <node id="Glenn Frey">
       <data key="d0">56291</data>
-      <data key="d1">soft rock, country rock, pop rock, rock, hard rock</data>
+      <data key="d1">country rock, hard rock, pop rock, rock, soft rock</data>
     </node>
     <node id="Ben Folds Five">
       <data key="d0">25611</data>
-      <data key="d1">power pop, alternative rock</data>
+      <data key="d1">alternative rock, power pop</data>
     </node>
     <node id="Bill Haley &amp; His Comets">
       <data key="d0">62161</data>
@@ -1244,19 +1244,19 @@
     </node>
     <node id="Tommy James and the Shondells">
       <data key="d0">26170</data>
-      <data key="d1">psychedelic, bubblegum, rock</data>
+      <data key="d1">bubblegum, psychedelic rock, rock</data>
     </node>
     <node id="Simple Minds">
       <data key="d0">111493</data>
-      <data key="d1">art rock, synth-pop, arena rock, post-punk</data>
+      <data key="d1">arena rock, art rock, post-punk, synth-pop</data>
     </node>
     <node id="The Everly Brothers">
       <data key="d0">56116</data>
-      <data key="d1">rock and roll, country, rockabilly, country rock</data>
+      <data key="d1">country, country rock, rock and roll, rockabilly</data>
     </node>
     <node id="Bo Diddley">
       <data key="d0">81429</data>
-      <data key="d1">rock and roll, blues, psychedelic funk</data>
+      <data key="d1">blues, psychedelic funk, rock and roll</data>
     </node>
     <node id="John Mellencamp">
       <data key="d0">95646</data>
@@ -1264,39 +1264,39 @@
     </node>
     <node id="John Mayer">
       <data key="d0">177567</data>
-      <data key="d1">blues, rock, pop</data>
+      <data key="d1">blues, pop, rock</data>
     </node>
     <node id="Joe Cocker">
       <data key="d0">45409</data>
-      <data key="d1">blues, pop, blue-eyed soul, rock</data>
+      <data key="d1">blue-eyed soul, blues, pop, rock</data>
     </node>
     <node id="Rainbow (rock band)">
       <data key="d0">37934</data>
-      <data key="d1">heavy metal, hard rock</data>
+      <data key="d1">hard rock, heavy metal</data>
     </node>
     <node id="Santana (band)">
       <data key="d0">48836</data>
-      <data key="d1">blues rock, jazz fusion, yacht rock, psychedelic rock, latin rock, acid rock, chicano rock</data>
+      <data key="d1">acid rock, blues rock, chicano rock, jazz fusion, latin rock, psychedelic rock, yacht rock</data>
     </node>
     <node id="Billy Talent">
       <data key="d0">49030</data>
-      <data key="d1">post-hardcore, pop punk, punk rock, alternative rock</data>
+      <data key="d1">alternative rock, pop punk, post-hardcore, punk rock</data>
     </node>
     <node id="The Tragically Hip">
       <data key="d0">65076</data>
-      <data key="d1">folk rock, alternative rock, roots rock</data>
+      <data key="d1">alternative rock, folk rock, roots rock</data>
     </node>
     <node id="Muse (band)">
       <data key="d0">96531</data>
-      <data key="d1">art rock, progressive rock, space rock, electronic rock, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, art rock, electronic, hard rock, progressive rock, space rock</data>
     </node>
     <node id="Whitesnake">
       <data key="d0">175169</data>
-      <data key="d1">glam metal, blues rock, hard rock</data>
+      <data key="d1">blues rock, glam metal, hard rock</data>
     </node>
     <node id="Quiet Riot">
       <data key="d0">69779</data>
-      <data key="d1">heavy metal, glam metal, hard rock</data>
+      <data key="d1">glam metal, hard rock, heavy metal</data>
     </node>
     <node id="Great White">
       <data key="d0">60854</data>
@@ -1308,47 +1308,47 @@
     </node>
     <node id="Highly Suspect">
       <data key="d0">32116</data>
-      <data key="d1">blues rock, garage rock, grunge, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, blues rock, garage rock, grunge, hard rock</data>
     </node>
     <node id="Tracy Chapman">
       <data key="d0">44145</data>
-      <data key="d1">folk, soul, blues rock, pop</data>
+      <data key="d1">blues rock, folk, pop, soul</data>
     </node>
     <node id="Social Distortion">
       <data key="d0">56789</data>
-      <data key="d1">rock and roll, cowpunk, punk rock, hardcore punk</data>
+      <data key="d1">cowpunk, hardcore punk, punk rock, rock and roll</data>
     </node>
     <node id="Dropkick Murphys">
       <data key="d0">88816</data>
-      <data key="d1">oi!, folk punk, hardcore punk, celtic punk, street punk</data>
+      <data key="d1">celtic punk, folk punk, hardcore punk, oi!, street punk</data>
     </node>
     <node id="Coheed and Cambria">
       <data key="d0">73030</data>
-      <data key="d1">post-hardcore, emo, progressive rock, progressive metal, alternative rock</data>
+      <data key="d1">alternative rock, emo, post-hardcore, progressive metal, progressive rock</data>
     </node>
     <node id="Depeche Mode">
       <data key="d0">133495</data>
-      <data key="d1">synth-pop, electronic rock, new wave, alternative rock</data>
+      <data key="d1">alternative rock, electronic, new wave, synth-pop</data>
     </node>
     <node id="Jimmy Eat World">
       <data key="d0">50347</data>
-      <data key="d1">emo, power pop, pop punk, pop rock, alternative rock</data>
+      <data key="d1">alternative rock, emo, pop punk, pop rock, power pop</data>
     </node>
     <node id="Good Charlotte">
       <data key="d0">80153</data>
-      <data key="d1">pop rock, pop punk, emo, alternative rock</data>
+      <data key="d1">alternative rock, emo, pop punk, pop rock</data>
     </node>
     <node id="Mumford &amp; Sons">
       <data key="d0">70599</data>
-      <data key="d1">folk rock, bluegrass, indie folk, americana, country, alternative rock</data>
+      <data key="d1">alternative rock, americana, bluegrass, country, folk rock, indie folk</data>
     </node>
     <node id="Blondie (band)">
       <data key="d0">76658</data>
-      <data key="d1">pop rock, disco, new wave, punk rock, pop</data>
+      <data key="d1">disco, new wave, pop, pop rock, punk rock</data>
     </node>
     <node id="Buddy Holly">
       <data key="d0">79280</data>
-      <data key="d1">rock and roll, country, rockabilly, pop</data>
+      <data key="d1">country, pop, rock and roll, rockabilly</data>
     </node>
     <node id="Pat Benatar">
       <data key="d0">58387</data>
@@ -1360,15 +1360,15 @@
     </node>
     <node id="Bloodhound Gang">
       <data key="d0">32867</data>
-      <data key="d1">comedy rock, pop punk, rap rock, alternative rock</data>
+      <data key="d1">alternative rock, comedy rock, pop punk, rap rock</data>
     </node>
     <node id="Blue October">
       <data key="d0">39081</data>
-      <data key="d1">art rock, post-grunge, new wave, synth-pop, shoegaze, alternative rock</data>
+      <data key="d1">alternative rock, art rock, new wave, post-grunge, shoegaze, synth-pop</data>
     </node>
     <node id="The Animals">
       <data key="d0">30597</data>
-      <data key="d1">blues rock, progressive rock, rock and roll, rhythm and blues, psychedelic rock</data>
+      <data key="d1">blues rock, progressive rock, psychedelic rock, rhythm and blues, rock and roll</data>
     </node>
     <node id="Grateful Dead">
       <data key="d0">134984</data>
@@ -1376,23 +1376,23 @@
     </node>
     <node id="Jefferson Airplane">
       <data key="d0">83588</data>
-      <data key="d1">folk rock, psychedelic rock, acid rock</data>
+      <data key="d1">acid rock, folk rock, psychedelic rock</data>
     </node>
     <node id="Blues Traveler">
       <data key="d0">33127</data>
-      <data key="d1">jam band, blues rock, folk rock, southern rock, alternative rock</data>
+      <data key="d1">alternative rock, blues rock, folk rock, jam band, southern rock</data>
     </node>
     <node id="Fats Domino">
       <data key="d0">53471</data>
-      <data key="d1">rock and roll, boogie-woogie, blues, new orleans r&amp;b</data>
+      <data key="d1">blues, boogie-woogie, rhythm and blues, rock and roll</data>
     </node>
     <node id="The Verve">
       <data key="d0">46826</data>
-      <data key="d1">shoegaze, britpop, alternative rock, neo-psychedelia</data>
+      <data key="d1">alternative rock, britpop, neo-psychedelia, shoegaze</data>
     </node>
     <node id="George Thorogood">
       <data key="d0">41131</data>
-      <data key="d1">boogie rock, rock and roll, blues rock, hard rock</data>
+      <data key="d1">blues rock, boogie rock, hard rock, rock and roll</data>
     </node>
     <node id="Traveling Wilburys">
       <data key="d0">63434</data>
@@ -1400,7 +1400,7 @@
     </node>
     <node id="The Byrds">
       <data key="d0">179362</data>
-      <data key="d1">folk rock, jangle pop, country rock, psychedelia, raga rock</data>
+      <data key="d1">country rock, folk rock, jangle pop, psychedelic rock, raga rock</data>
     </node>
     <node id="Bryan Ferry">
       <data key="d0">73735</data>
@@ -1408,23 +1408,23 @@
     </node>
     <node id="Van Morrison">
       <data key="d0">201085</data>
-      <data key="d1">blues, gospel, blue-eyed soul, celtic, rhythm and blues, country, rock, jazz, christian, folk</data>
+      <data key="d1">blue-eyed soul, blues, celtic, christian, country, folk, gospel, jazz, rhythm and blues, rock</data>
     </node>
     <node id="Dire Straits">
       <data key="d0">79190</data>
-      <data key="d1">pub rock, blues rock, roots rock</data>
+      <data key="d1">blues rock, pub rock, roots rock</data>
     </node>
     <node id="Tom Petty and the Heartbreakers">
       <data key="d0">42177</data>
-      <data key="d1">heartland rock, southern rock, rock</data>
+      <data key="d1">heartland rock, rock, southern rock</data>
     </node>
     <node id="Duane Eddy">
       <data key="d0">64475</data>
-      <data key="d1">rock and roll, country, instrumental rock, rockabilly</data>
+      <data key="d1">country, instrumental rock, rock and roll, rockabilly</data>
     </node>
     <node id="John Fogerty">
       <data key="d0">56672</data>
-      <data key="d1">blues rock, southern rock, country rock, americana, rock and roll, heartland rock, swamp rock, roots rock</data>
+      <data key="d1">americana, blues rock, country rock, heartland rock, rock and roll, roots rock, southern rock, swamp rock</data>
     </node>
     <node id="Grand Funk Railroad">
       <data key="d0">33294</data>
@@ -1432,11 +1432,11 @@
     </node>
     <node id="Bowling for Soup">
       <data key="d0">66003</data>
-      <data key="d1">pop rock, pop punk, power pop, alternative rock</data>
+      <data key="d1">alternative rock, pop punk, pop rock, power pop</data>
     </node>
     <node id="The All-American Rejects">
       <data key="d0">59076</data>
-      <data key="d1">power pop, pop punk, pop rock, emo pop, alternative rock</data>
+      <data key="d1">alternative rock, emo pop, pop punk, pop rock, power pop</data>
     </node>
     <node id="Bread (band)">
       <data key="d0">38282</data>
@@ -1444,15 +1444,15 @@
     </node>
     <node id="Skillet (band)">
       <data key="d0">77661</data>
-      <data key="d1">christian rock, alternative metal, post-grunge, nu-metal, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, christian rock, hard rock, nu-metal, post-grunge</data>
     </node>
     <node id="Flyleaf (band)">
       <data key="d0">45694</data>
-      <data key="d1">alternative metal, christian rock, post-grunge, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, christian rock, hard rock, post-grunge</data>
     </node>
     <node id="Starset">
       <data key="d0">52669</data>
-      <data key="d1">alternative metal, progressive rock, electronic rock, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, electronic, hard rock, progressive rock</data>
     </node>
     <node id="Interpol (band)">
       <data key="d0">40113</data>
@@ -1460,75 +1460,75 @@
     </node>
     <node id="Melissa Etheridge">
       <data key="d0">58332</data>
-      <data key="d1">blues rock, folk rock, country rock, heartland rock, roots rock</data>
+      <data key="d1">blues rock, country rock, folk rock, heartland rock, roots rock</data>
     </node>
     <node id="Status Quo (band)">
       <data key="d0">64602</data>
-      <data key="d1">boogie rock, hard rock, psychedelia, rock</data>
+      <data key="d1">boogie rock, hard rock, psychedelic rock, rock</data>
     </node>
     <node id="Rammstein">
       <data key="d0">107174</data>
-      <data key="d1">neue deutsche härte, industrial metal</data>
+      <data key="d1">industrial metal, neue deutsche härte</data>
     </node>
     <node id="Buckcherry">
       <data key="d0">31717</data>
-      <data key="d1">hard rock, sleaze rock, alternative metal</data>
+      <data key="d1">alternative metal, hard rock, sleaze rock</data>
     </node>
     <node id="Ritchie Valens">
       <data key="d0">40657</data>
-      <data key="d1">rock and roll, chicano rock</data>
+      <data key="d1">chicano rock, rock and roll</data>
     </node>
     <node id="The Big Bopper">
       <data key="d0">30819</data>
-      <data key="d1">rock and roll, country, rockabilly</data>
+      <data key="d1">country, rock and roll, rockabilly</data>
     </node>
     <node id="Steve Winwood">
       <data key="d0">54866</data>
-      <data key="d1">blue-eyed soul, rhythm and blues, rock, pop</data>
+      <data key="d1">blue-eyed soul, pop, rhythm and blues, rock</data>
     </node>
     <node id="Cake (band)">
       <data key="d0">58884</data>
-      <data key="d1">indie rock, country, funk rock, alternative rock</data>
+      <data key="d1">alternative rock, country, funk rock, indie rock</data>
     </node>
     <node id="The Black Keys">
       <data key="d0">112129</data>
-      <data key="d1">garage rock, punk blues, blues rock, indie rock</data>
+      <data key="d1">blues rock, garage rock, indie rock, punk blues</data>
     </node>
     <node id="Foals (band)">
       <data key="d0">43380</data>
-      <data key="d1">art rock, indie rock, dance-punk, math rock, alternative rock</data>
+      <data key="d1">alternative rock, art rock, dance-punk, indie rock, math rock</data>
     </node>
     <node id="Counting Crows">
       <data key="d0">59760</data>
-      <data key="d1">roots rock, pop rock, alternative rock</data>
+      <data key="d1">alternative rock, pop rock, roots rock</data>
     </node>
     <node id="Modest Mouse">
       <data key="d0">42352</data>
-      <data key="d1">indie rock, emo, synthpop, post punk revival, punk rock, alternative rock</data>
+      <data key="d1">alternative rock, emo, indie rock, post punk revival, punk rock, synthpop</data>
     </node>
     <node id="Canned Heat">
       <data key="d0">39966</data>
-      <data key="d1">boogie rock, blues rock</data>
+      <data key="d1">blues rock, boogie rock</data>
     </node>
     <node id="The Mothers of Invention">
       <data key="d0">55876</data>
-      <data key="d1">art rock, doo-wop, blues rock, progressive rock, comedy rock, experimental rock, jazz rock, avant-garde</data>
+      <data key="d1">art rock, avant-garde, blues rock, comedy rock, doo-wop, experimental rock, jazz fusion, progressive rock</data>
     </node>
     <node id="John Mayall">
       <data key="d0">40882</data>
-      <data key="d1">jazz rock, blues rock, british blues</data>
+      <data key="d1">blues rock, british blues, jazz rock</data>
     </node>
     <node id="Catfish and the Bottlemen">
       <data key="d0">62179</data>
-      <data key="d1">indie rock, post-punk revival, alternative rock</data>
+      <data key="d1">alternative rock, indie rock, post-punk revival</data>
     </node>
     <node id="Charlie Daniels">
       <data key="d0">50145</data>
-      <data key="d1">bluegrass, progressive country, southern rock, country rock</data>
+      <data key="d1">bluegrass, country rock, progressive country, southern rock</data>
     </node>
     <node id="The Marshall Tucker Band">
       <data key="d0">48868</data>
-      <data key="d1">blues rock, progressive country, southern rock, country rock, jazz rock</data>
+      <data key="d1">blues rock, country rock, jazz fusion, progressive country, southern rock</data>
     </node>
     <node id="Thirty Seconds to Mars">
       <data key="d0">67074</data>
@@ -1536,99 +1536,99 @@
     </node>
     <node id="Finger Eleven">
       <data key="d0">38270</data>
-      <data key="d1">alternative metal, post-grunge, nu-metal, alternative rock, hard rock</data>
+      <data key="d1">alternative metal, alternative rock, hard rock, nu-metal, post-grunge</data>
     </node>
     <node id="Jeff Buckley">
       <data key="d0">85433</data>
-      <data key="d1">folk rock, blues, alternative rock</data>
+      <data key="d1">alternative rock, blues, folk rock</data>
     </node>
     <node id="Chris de Burgh">
       <data key="d0">27296</data>
-      <data key="d1">art rock, soft rock, pop</data>
+      <data key="d1">art rock, pop, soft rock</data>
     </node>
     <node id="Supertramp">
       <data key="d0">52179</data>
-      <data key="d1">progressive pop, progressive rock, soft rock, pop</data>
+      <data key="d1">pop, progressive pop, progressive rock, soft rock</data>
     </node>
     <node id="The Moody Blues">
       <data key="d0">86276</data>
-      <data key="d1">art rock, psychedelic rock, pop rock, progressive rock</data>
+      <data key="d1">art rock, pop rock, progressive rock, psychedelic rock</data>
     </node>
     <node id="Chris Rea">
       <data key="d0">68030</data>
-      <data key="d1">pop rock, electric blues, soft rock, blues rock</data>
+      <data key="d1">blues rock, electric blues, pop rock, soft rock</data>
     </node>
     <node id="The Bangles">
       <data key="d0">35576</data>
-      <data key="d1">pop rock, paisley underground, new wave, power pop</data>
+      <data key="d1">new wave, paisley underground, pop rock, power pop</data>
     </node>
     <node id="Steve Miller Band">
       <data key="d0">27682</data>
-      <data key="d1">pop rock, psychedelic rock, blues rock</data>
+      <data key="d1">blues rock, pop rock, psychedelic rock</data>
     </node>
     <node id="The Used">
       <data key="d0">52490</data>
-      <data key="d1">post-hardcore, emo, pop punk, screamo, punk rock, alternative rock</data>
+      <data key="d1">alternative rock, emo, pop punk, post-hardcore, punk rock, screamo</data>
     </node>
     <node id="Little River Band">
       <data key="d0">115987</data>
-      <data key="d1">aor, soft rock, pop rock, rock</data>
+      <data key="d1">aor, pop rock, rock, soft rock</data>
     </node>
     <node id="Joe Satriani">
       <data key="d0">58899</data>
-      <data key="d1">instrumental rock, blues rock, hard rock</data>
+      <data key="d1">blues rock, hard rock, instrumental rock</data>
     </node>
     <node id="Travis (band)">
       <data key="d0">45738</data>
-      <data key="d1">post-britpop, pop rock, alternative rock</data>
+      <data key="d1">alternative rock, pop rock, post-britpop</data>
     </node>
     <node id="Collective Soul">
       <data key="d0">37231</data>
-      <data key="d1">post-grunge, alternative rock, hard rock</data>
+      <data key="d1">alternative rock, hard rock, post-grunge</data>
     </node>
     <node id="Hootie &amp; the Blowfish">
       <data key="d0">29465</data>
-      <data key="d1">soft rock, jangle pop, heartland rock, pop rock, alternative rock, roots rock</data>
+      <data key="d1">alternative rock, heartland rock, jangle pop, pop rock, roots rock, soft rock</data>
     </node>
     <node id="Sheryl Crow">
       <data key="d0">89021</data>
-      <data key="d1">blues, country rock, heartland rock, folk, pop</data>
+      <data key="d1">blues, country rock, folk, heartland rock, pop</data>
     </node>
     <node id="The Band">
       <data key="d0">87324</data>
-      <data key="d1">folk rock, roots rock, country rock, americana</data>
+      <data key="d1">americana, country rock, folk rock, roots rock</data>
     </node>
     <node id="Crash Test Dummies">
       <data key="d0">34393</data>
-      <data key="d1">folk rock, alternative rock</data>
+      <data key="d1">alternative rock, folk rock</data>
     </node>
     <node id="Crowded House">
       <data key="d0">67157</data>
-      <data key="d1">jangle pop, pop rock, alternative rock</data>
+      <data key="d1">alternative rock, jangle pop, pop rock</data>
     </node>
     <node id="Men at Work">
       <data key="d0">44833</data>
-      <data key="d1">reggae rock, new wave, pop rock</data>
+      <data key="d1">new wave, pop rock, reggae rock</data>
     </node>
     <node id="Dan Fogelberg">
       <data key="d0">24019</data>
-      <data key="d1">soft rock, folk rock, country, pop rock, rock, folk, pop</data>
+      <data key="d1">country, folk, folk rock, pop, pop rock, rock, soft rock</data>
     </node>
     <node id="The Strokes">
       <data key="d0">66845</data>
-      <data key="d1">indie rock, garage rock revival, post-punk revival, synth-pop, new wave</data>
+      <data key="d1">garage rock revival, indie rock, new wave, post-punk revival, synth-pop</data>
     </node>
     <node id="The Hives">
       <data key="d0">38807</data>
-      <data key="d1">garage rock revival, garage punk</data>
+      <data key="d1">garage punk, garage rock revival</data>
     </node>
     <node id="Lifehouse (band)">
       <data key="d0">41317</data>
-      <data key="d1">post-grunge, pop rock, alternative rock</data>
+      <data key="d1">alternative rock, pop rock, post-grunge</data>
     </node>
     <node id="Death Cab for Cutie">
       <data key="d0">63964</data>
-      <data key="d1">indie rock, indie pop, emo, alternative rock</data>
+      <data key="d1">alternative rock, emo, indie pop, indie rock</data>
     </node>
     <node id="Faces (band)">
       <data key="d0">37287</data>
@@ -1636,87 +1636,87 @@
     </node>
     <node id="Kansas (band)">
       <data key="d0">48867</data>
-      <data key="d1">art rock, arena rock, hard rock, progressive rock</data>
+      <data key="d1">arena rock, art rock, hard rock, progressive rock</data>
     </node>
     <node id="Traffic (band)">
       <data key="d0">30927</data>
-      <data key="d1">progressive rock, folk rock, psychedelic pop, psychedelic rock, jazz rock</data>
+      <data key="d1">folk rock, jazz fusion, progressive rock, psychedelic pop, psychedelic rock</data>
     </node>
     <node id="Europe (band)">
       <data key="d0">51642</data>
-      <data key="d1">glam metal, blues rock, heavy metal, arena rock, hard rock</data>
+      <data key="d1">arena rock, blues rock, glam metal, hard rock, heavy metal</data>
     </node>
     <node id="Steve Vai">
       <data key="d0">111608</data>
-      <data key="d1">heavy metal, instrumental rock, progressive metal, hard rock</data>
+      <data key="d1">hard rock, heavy metal, instrumental rock, progressive metal</data>
     </node>
     <node id="The Sweet">
       <data key="d0">65098</data>
-      <data key="d1">power pop, glam rock, bubblegum, hard rock</data>
+      <data key="d1">bubblegum, glam rock, hard rock, power pop</data>
     </node>
     <node id="Ghost (Swedish band)">
       <data key="d0">163629</data>
-      <data key="d1">progressive rock, heavy metal, arena rock, pop rock, hard rock</data>
+      <data key="d1">arena rock, hard rock, heavy metal, pop rock, progressive rock</data>
     </node>
     <node id="Tenacious D">
       <data key="d0">116307</data>
-      <data key="d1">comedy rock, heavy metal, acoustic rock, hard rock</data>
+      <data key="d1">acoustic rock, comedy rock, hard rock, heavy metal</data>
     </node>
     <node id="Pop Evil">
       <data key="d0">23327</data>
-      <data key="d1">hard rock, post-grunge, alternative metal</data>
+      <data key="d1">alternative metal, hard rock, post-grunge</data>
     </node>
     <node id="Dr. Hook &amp; the Medicine Show">
       <data key="d0">69</data>
-      <data key="d1">soft rock, blue-eyed soul, country rock, boogie rock, pop rock, disco, roots rock</data>
+      <data key="d1">blue-eyed soul, boogie rock, country rock, disco, pop rock, roots rock, soft rock</data>
     </node>
     <node id="Drowning Pool">
       <data key="d0">36692</data>
-      <data key="d1">post-grunge, nu-metal, alternative metal, hard rock</data>
+      <data key="d1">alternative metal, hard rock, nu-metal, post-grunge</data>
     </node>
     <node id="Saliva (band)">
       <data key="d0">40953</data>
-      <data key="d1">alternative metal, post-grunge, nu-metal, rap metal, hard rock</data>
+      <data key="d1">alternative metal, hard rock, nu-metal, post-grunge, rap metal</data>
     </node>
     <node id="Saving Abel">
       <data key="d0">14998</data>
-      <data key="d1">post-grunge, southern rock, rock, hard rock</data>
+      <data key="d1">hard rock, post-grunge, rock, southern rock</data>
     </node>
     <node id="P.O.D.">
       <data key="d0">48241</data>
-      <data key="d1">rap rock, christian metal, alternative metal, hardcore punk, nu-metal</data>
+      <data key="d1">alternative metal, christian metal, hardcore punk, nu-metal, rap rock</data>
     </node>
     <node id="Snow Patrol">
       <data key="d0">67050</data>
-      <data key="d1">indie rock, alternative rock, power pop, post-britpop</data>
+      <data key="d1">alternative rock, indie rock, post-britpop, power pop</data>
     </node>
     <node id="Franz Ferdinand (band)">
       <data key="d0">54186</data>
-      <data key="d1">art rock, indie rock, dance-punk, art punk, post-punk revival</data>
+      <data key="d1">art punk, art rock, dance-punk, indie rock, post-punk revival</data>
     </node>
     <node id="Jack White">
       <data key="d0">144184</data>
-      <data key="d1">punk blues, garage rock revival, blues rock, experimental rock, alternative rock</data>
+      <data key="d1">alternative rock, blues rock, experimental rock, garage rock revival, punk blues</data>
     </node>
     <node id="England Dan &amp; John Ford Coley">
       <data key="d0">15371</data>
-      <data key="d1">pop rock, soft rock, country rock</data>
+      <data key="d1">country rock, pop rock, soft rock</data>
     </node>
     <node id="The Pretty Reckless">
       <data key="d0">87956</data>
-      <data key="d1">hard rock, post-grunge, blues rock, alternative rock</data>
+      <data key="d1">alternative rock, blues rock, hard rock, post-grunge</data>
     </node>
     <node id="Everclear (band)">
       <data key="d0">37454</data>
-      <data key="d1">power pop, post-grunge, pop rock, grunge, punk rock, alternative rock</data>
+      <data key="d1">alternative rock, grunge, pop rock, post-grunge, power pop, punk rock</data>
     </node>
     <node id="Everlast">
       <data key="d0">26856</data>
-      <data key="d1">folk rock, blues, hip hop</data>
+      <data key="d1">blues, folk rock, hip hop</data>
     </node>
     <node id="The Monkees">
       <data key="d0">109676</data>
-      <data key="d1">psychedelia, pop rock, bubblegum, rock</data>
+      <data key="d1">bubblegum, pop rock, psychedelic rock, rock</data>
     </node>
     <node id="FireHouse">
       <data key="d0">22639</data>
@@ -1724,51 +1724,51 @@
     </node>
     <node id="Five for Fighting">
       <data key="d0">72381</data>
-      <data key="d1">soft rock, americana, heartland rock, pop rock, adult contemporary, alternative rock</data>
+      <data key="d1">adult contemporary, alternative rock, americana, heartland rock, pop rock, soft rock</data>
     </node>
     <node id="Manfred Mann Chapter Three">
       <data key="d0">3806</data>
-      <data key="d1">jazz rock</data>
+      <data key="d1">jazz fusion</data>
     </node>
     <node id="Flogging Molly">
       <data key="d0">17625</data>
-      <data key="d1">folk punk, celtic punk</data>
+      <data key="d1">celtic punk, folk punk</data>
     </node>
     <node id="Florence and the Machine">
       <data key="d0">108869</data>
-      <data key="d1">art rock, indie rock, baroque pop, indie pop, neo soul, chamber pop, folk, art pop</data>
+      <data key="d1">art pop, art rock, baroque pop, chamber pop, folk, indie pop, indie rock, neo soul</data>
     </node>
     <node id="Foster the People">
       <data key="d0">67085</data>
-      <data key="d1">indie rock, indie pop, dance-pop, neo-psychedelia, synth-pop, alternative rock</data>
+      <data key="d1">alternative rock, dance-pop, indie pop, indie rock, neo-psychedelia, synth-pop</data>
     </node>
     <node id="The Cardigans">
       <data key="d0">26135</data>
-      <data key="d1">indie rock, alternative rock, pop rock, indie pop</data>
+      <data key="d1">alternative rock, indie pop, indie rock, pop rock</data>
     </node>
     <node id="Kaiser Chiefs">
       <data key="d0">43828</data>
-      <data key="d1">indie rock, power pop, pop punk, art punk, pop rock, post-punk revival, alternative rock</data>
+      <data key="d1">alternative rock, art punk, indie rock, pop punk, pop rock, post-punk revival, power pop</data>
     </node>
     <node id="The Smiths">
       <data key="d0">97491</data>
-      <data key="d1">indie pop, jangle pop, indie rock, alternative rock</data>
+      <data key="d1">alternative rock, indie pop, indie rock, jangle pop</data>
     </node>
     <node id="Parliament-Funkadelic">
       <data key="d0">33526</data>
-      <data key="d1">funk, psychedelic funk, progressive soul, funk rock, acid rock</data>
+      <data key="d1">acid rock, funk, funk rock, progressive soul, psychedelic funk</data>
     </node>
     <node id="Parliament (band)">
       <data key="d0">11829</data>
-      <data key="d1">psychedelic soul, funk, rhythm and blues</data>
+      <data key="d1">funk, psychedelic soul, rhythm and blues</data>
     </node>
     <node id="Gary Glitter">
       <data key="d0">88864</data>
-      <data key="d1">rock and roll, pop rock, glam rock, disco, hard rock</data>
+      <data key="d1">disco, glam rock, hard rock, pop rock, rock and roll</data>
     </node>
     <node id="Ian Dury">
       <data key="d0">54459</data>
-      <data key="d1">post-punk, funk, pub rock, disco, new wave, punk rock</data>
+      <data key="d1">disco, funk, new wave, post-punk, pub rock, punk rock</data>
     </node>
     <node id="Mike and the Mechanics">
       <data key="d0">26499</data>
@@ -1776,19 +1776,19 @@
     </node>
     <node id="Golden Earring">
       <data key="d0">25844</data>
-      <data key="d1">blues rock, psychedelic rock, jazz rock, garage rock, hard rock</data>
+      <data key="d1">blues rock, garage rock, hard rock, jazz fusion, psychedelic rock</data>
     </node>
     <node id="Silverchair">
       <data key="d0">101229</data>
-      <data key="d1">art rock, post-grunge, grunge, alternative rock</data>
+      <data key="d1">alternative rock, art rock, grunge, post-grunge</data>
     </node>
     <node id="Hall &amp; Oates">
       <data key="d0">75101</data>
-      <data key="d1">blue-eyed soul, rhythm and blues, soft rock, pop rock</data>
+      <data key="d1">blue-eyed soul, pop rock, rhythm and blues, soft rock</data>
     </node>
     <node id="Greta Van Fleet">
       <data key="d0">61276</data>
-      <data key="d1">hard rock, blues rock, progressive rock</data>
+      <data key="d1">blues rock, hard rock, progressive rock</data>
     </node>
     <node id="Jim Croce">
       <data key="d0">28845</data>
@@ -1800,7 +1800,7 @@
     </node>
     <node id="Icehouse (band)">
       <data key="d0">63956</data>
-      <data key="d1">synth-pop, new wave, rock</data>
+      <data key="d1">new wave, rock, synth-pop</data>
     </node>
     <node id="Harry Chapin">
       <data key="d0">41704</data>
@@ -1808,19 +1808,19 @@
     </node>
     <node id="X Ambassadors">
       <data key="d0">36635</data>
-      <data key="d1">indie rock, indie pop, alternative pop, pop rock, alternative rock</data>
+      <data key="d1">alternative pop, alternative rock, indie pop, indie rock, pop rock</data>
     </node>
     <node id="The Go-Go's">
       <data key="d0">41472</data>
-      <data key="d1">post-punk, power pop, pop rock, new wave, punk rock</data>
+      <data key="d1">new wave, pop rock, post-punk, power pop, punk rock</data>
     </node>
     <node id="The White Stripes">
       <data key="d0">176590</data>
-      <data key="d1">indie rock, punk blues, blues rock, garage rock, alternative rock</data>
+      <data key="d1">alternative rock, blues rock, garage rock, indie rock, punk blues</data>
     </node>
     <node id="Kings of Leon">
       <data key="d0">47842</data>
-      <data key="d1">indie rock, garage rock revival, southern rock, alternative rock</data>
+      <data key="d1">alternative rock, garage rock revival, indie rock, southern rock</data>
     </node>
     <node id="Ten Years After">
       <data key="d0">18259</data>
@@ -1832,39 +1832,39 @@
     </node>
     <node id="The Lovin' Spoonful">
       <data key="d0">167026</data>
-      <data key="d1">folk rock, rock, pop</data>
+      <data key="d1">folk rock, pop, rock</data>
     </node>
     <node id="Jet (Australian band)">
       <data key="d0">109</data>
-      <data key="d1">hard rock, garage rock, indie rock, alternative rock</data>
+      <data key="d1">alternative rock, garage rock, hard rock, indie rock</data>
     </node>
     <node id="The Outfield">
       <data key="d0">39564</data>
-      <data key="d1">pop rock, new wave, power pop</data>
+      <data key="d1">new wave, pop rock, power pop</data>
     </node>
     <node id="Kaleo (band)">
       <data key="d0">41901</data>
-      <data key="d1">blues rock, alternative rock, indie folk</data>
+      <data key="d1">alternative rock, blues rock, indie folk</data>
     </node>
     <node id="The Lumineers">
       <data key="d0">61436</data>
-      <data key="d1">folk rock, indie folk, americana</data>
+      <data key="d1">americana, folk rock, indie folk</data>
     </node>
     <node id="Keane (band)">
       <data key="d0">61322</data>
-      <data key="d1">alternative rock, soft rock, post-britpop, rock</data>
+      <data key="d1">alternative rock, post-britpop, rock, soft rock</data>
     </node>
     <node id="Steppenwolf (band)">
       <data key="d0">24756</data>
-      <data key="d1">blues rock, heavy metal, psychedelic rock, garage rock, acid rock, hard rock</data>
+      <data key="d1">acid rock, blues rock, garage rock, hard rock, heavy metal, psychedelic rock</data>
     </node>
     <node id="The Killers">
       <data key="d0">126722</data>
-      <data key="d1">new wave, heartland rock, pop rock, post-punk revival, alternative rock</data>
+      <data key="d1">alternative rock, heartland rock, new wave, pop rock, post-punk revival</data>
     </node>
     <node id="Manfred Mann (musician)">
       <data key="d0">15310</data>
-      <data key="d1">blues rock, progressive rock, beat, rhythm and blues, jazz rock, psychedelia, hard rock</data>
+      <data key="d1">beat, blues rock, hard rock, jazz fusion, progressive rock, psychedelic rock, rhythm and blues</data>
     </node>
     <node id="Michael Martin Murphey">
       <data key="d0">40471</data>
@@ -1872,27 +1872,27 @@
     </node>
     <node id="The Jam">
       <data key="d0">52808</data>
-      <data key="d1">mod revival, new wave, punk rock, power pop</data>
+      <data key="d1">mod revival, new wave, power pop, punk rock</data>
     </node>
     <node id="The Cranberries">
       <data key="d0">124596</data>
-      <data key="d1">indie rock, post-punk, jangle pop, pop rock, dream pop, alternative rock</data>
+      <data key="d1">alternative rock, dream pop, indie rock, jangle pop, pop rock, post-punk</data>
     </node>
     <node id="Montgomery Gentry">
       <data key="d0">55109</data>
-      <data key="d1">country, southern rock, country rock</data>
+      <data key="d1">country, country rock, southern rock</data>
     </node>
     <node id="The Allman Brothers Band">
       <data key="d0">81341</data>
-      <data key="d1">southern rock, jam band, blues rock, jazz rock</data>
+      <data key="d1">blues rock, jam band, jazz fusion, southern rock</data>
     </node>
     <node id="Vampire Weekend">
       <data key="d0">65996</data>
-      <data key="d1">indie rock, baroque pop, indie pop, worldbeat, art pop</data>
+      <data key="d1">art pop, baroque pop, indie pop, indie rock, worldbeat</data>
     </node>
     <node id="The Jesus and Mary Chain">
       <data key="d0">58195</data>
-      <data key="d1">indie rock, noise pop, post-punk, alternative rock</data>
+      <data key="d1">alternative rock, indie rock, noise pop, post-punk</data>
     </node>
     <node id="Shakin' Stevens">
       <data key="d0">26537</data>
@@ -1900,19 +1900,19 @@
     </node>
     <node id="Sixto Rodriguez">
       <data key="d0">49609</data>
-      <data key="d1">folk rock, psychedelic rock, psychedelic folk</data>
+      <data key="d1">folk rock, psychedelic folk, psychedelic rock</data>
     </node>
     <node id="Smash Mouth">
       <data key="d0">45225</data>
-      <data key="d1">ska punk, power pop, pop rock, alternative rock</data>
+      <data key="d1">alternative rock, pop rock, power pop, ska punk</data>
     </node>
     <node id="Smokie (band)">
       <data key="d0">29809</data>
-      <data key="d1">soft rock, pop rock, glam rock</data>
+      <data key="d1">glam rock, pop rock, soft rock</data>
     </node>
     <node id="The B-52's">
       <data key="d0">84</data>
-      <data key="d1">dance rock, new wave, post-punk, art pop</data>
+      <data key="d1">art pop, dance rock, new wave, post-punk</data>
     </node>
     <node id="The Boxtones">
       <data key="d0">15303</data>
@@ -1920,11 +1920,11 @@
     </node>
     <node id="The Cab">
       <data key="d0">53232</data>
-      <data key="d1">power pop, pop punk, pop rock, emo pop, alternative rock, pop</data>
+      <data key="d1">alternative rock, emo pop, pop, pop punk, pop rock, power pop</data>
     </node>
     <node id="The Dave Clark Five">
       <data key="d0">24815</data>
-      <data key="d1">rock and roll, beat, pop</data>
+      <data key="d1">beat, pop, rock and roll</data>
     </node>
     <node id="The Fixx">
       <data key="d0">11763</data>
@@ -1932,23 +1932,23 @@
     </node>
     <node id="The Fray">
       <data key="d0">55892</data>
-      <data key="d1">alternative rock, soft rock, pop rock, christian rock</data>
+      <data key="d1">alternative rock, christian rock, pop rock, soft rock</data>
     </node>
     <node id="The J. Geils Band">
       <data key="d0">31188</data>
-      <data key="d1">new wave, blues rock, rock</data>
+      <data key="d1">blues rock, new wave, rock</data>
     </node>
     <node id="The Presidents of the United States of America (band)">
       <data key="d0">26569</data>
-      <data key="d1">post-grunge, pop punk, alternative rock</data>
+      <data key="d1">alternative rock, pop punk, post-grunge</data>
     </node>
     <node id="The Script">
       <data key="d0">43119</data>
-      <data key="d1">indie rock, soft rock, pop rock</data>
+      <data key="d1">indie rock, pop rock, soft rock</data>
     </node>
     <node id="The Stone Roses">
       <data key="d0">62607</data>
-      <data key="d1">madchester, indie rock, dance rock, neo-psychedelia, alternative rock</data>
+      <data key="d1">alternative rock, dance rock, indie rock, madchester, neo-psychedelia</data>
     </node>
     <node id="UB40">
       <data key="d0">68172</data>
@@ -1956,7 +1956,7 @@
     </node>
     <node id="Van Zant (band)">
       <data key="d0">75</data>
-      <data key="d1">country, arena rock, ccm, southern rock</data>
+      <data key="d1">arena rock, ccm, country, southern rock</data>
     </node>
     <edge source="10 Years (band)" target="Disturbed (band)" />
     <edge source="10 Years (band)" target="Breaking Benjamin" />
